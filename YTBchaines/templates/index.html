@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Analyseur YouTube</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+</head>
+<body>
+  <div class="wrapper">
+    <header class="hero">
+      <h1>Analyseur YouTube</h1>
+      <p>Analyse complète de chaîne pour des recommandations personnalisées</p>
+      <label class="theme-toggle">
+        <input type="checkbox" id="darkModeToggle" />
+        Mode sombre
+      </label>
+    </header>
+
+    <section class="search-bar">
+      <input id="channelUrl" type="url" placeholder="Collez l’URL de la chaîne YouTube ici (ex: https://www.youtube.com/@ChaîneYouTube)" />
+      <button id="analyzeBtn">Analyser</button>
+    </section>
+
+    <p id="loadingMessage" class="hidden">Analyse en cours... Merci de patienter.</p>
+
+    <main id="dashboard" class="hidden">
+      <section class="card channel-info">
+        <h2>Infos chaîne</h2>
+        <ul>
+          <li><strong>Nom :</strong> <span id="channelTitle"></span></li>
+          <li><strong>Abonnés :</strong> <span id="subscribersCount"></span></li>
+          <li><strong>Vues totales :</strong> <span id="viewsCount"></span></li>
+          <li><strong>Vidéos publiées :</strong> <span id="videosCount"></span></li>
+          <li><strong>Date création :</strong> <span id="createdAt"></span></li>
+        </ul>
+      </section>
+
+      <section class="card averages">
+        <h2>Moyennes par vidéo</h2>
+        <ul>
+          <li><strong>Vues moyennes :</strong> <span id="avgViews"></span></li>
+          <li><strong>Likes moyens :</strong> <span id="avgLikes"></span></li>
+          <li><strong>Commentaires moyens :</strong> <span id="avgComments"></span></li>
+        </ul>
+      </section>
+
+      <section class="card videos-section">
+        <h2>Dernières vidéos</h2>
+        <div id="videosList" class="videos-list"></div>
+      </section>
+
+      <section class="card recommendations">
+        <h2>Recommandations</h2>
+        <ul id="recommendationsList"></ul>
+      </section>
+    </main>
+  </div>
+
+<script>
+  const analyzeBtn = document.getElementById("analyzeBtn");
+  const channelTitle = document.getElementById("channelTitle");
+  const subscribersCount = document.getElementById("subscribersCount");
+  const viewsCount = document.getElementById("viewsCount");
+  const videosCount = document.getElementById("videosCount");
+  const createdAt = document.getElementById("createdAt");
+  const avgViews = document.getElementById("avgViews");
+  const avgLikes = document.getElementById("avgLikes");
+  const avgComments = document.getElementById("avgComments");
+  const videosList = document.getElementById("videosList");
+  const recommendationsList = document.getElementById("recommendationsList");
+  const loadingMessage = document.getElementById("loadingMessage");
+  const dashboard = document.getElementById("dashboard");
+  const darkModeToggle = document.getElementById("darkModeToggle");
+
+  function formatNumber(num) {
+    return num.toLocaleString("fr-FR");
+  }
+
+  function formatDate(dateString) {
+    const date = new Date(dateString);
+    return date.toLocaleDateString("fr-FR");
+  }
+
+  function showElement(el) {
+    el.classList.remove("hidden");
+    el.classList.add("visible");
+  }
+
+  function hideElement(el) {
+    el.classList.remove("visible");
+    el.classList.add("hidden");
+  }
+
+  analyzeBtn.addEventListener("click", async () => {
+    const channelUrl = document.getElementById("channelUrl").value.trim();
+    if (!channelUrl) {
+      alert("Merci d’entrer une URL valide");
+      return;
+    }
+
+    hideElement(dashboard);
+    recommendationsList.innerHTML = "";
+    videosList.innerHTML = "";
+    showElement(loadingMessage);
+
+    try {
+      const response = await fetch("/detailed_analyze", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({channelUrl})
+      });
+      const data = await response.json();
+
+      if (data.error) {
+        alert("Erreur : " + data.error);
+        hideElement(loadingMessage);
+        return;
+      }
+
+      // Infos chaîne
+      channelTitle.textContent = data.channel.title;
+      subscribersCount.textContent = formatNumber(data.channel.subscriberCount);
+      viewsCount.textContent = formatNumber(data.channel.viewCount);
+      videosCount.textContent = formatNumber(data.channel.videoCount);
+      createdAt.textContent = formatDate(data.channel.publishedAt);
+
+      // Moyennes
+      avgViews.textContent = formatNumber(data.averages.views);
+      avgLikes.textContent = formatNumber(data.averages.likes);
+      avgComments.textContent = formatNumber(data.averages.comments);
+
+      // Vidéos avec miniatures + animation d’apparition
+      videosList.innerHTML = "";
+      data.videos.forEach((v, i) => {
+        const div = document.createElement("div");
+        div.className = "video-item";
+        div.style.opacity = 0;
+        div.style.transform = "translateY(20px)";
+        div.style.transition = `opacity 0.4s ease ${(i * 0.1)}s, transform 0.4s ease ${(i * 0.1)}s`;
+
+        div.innerHTML = `
+          <a href="https://www.youtube.com/watch?v=${v.videoId}" target="_blank" rel="noopener noreferrer">
+            <img src="${v.thumbnail}" alt="Miniature de ${v.title}" />
+          </a>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=${v.videoId}" target="_blank" rel="noopener noreferrer">
+              <h4>${v.title}</h4>
+            </a>
+            <p>Vues: ${formatNumber(v.viewCount)} | Likes: ${formatNumber(v.likeCount)} | Commentaires: ${formatNumber(v.commentCount)}</p>
+          </div>
+        `;
+        videosList.appendChild(div);
+
+        setTimeout(() => {
+          div.style.opacity = 1;
+          div.style.transform = "translateY(0)";
+        }, 50);
+      });
+
+      // Recommandations avec animation apparition
+      recommendationsList.innerHTML = "";
+      data.recommendations.forEach((rec, i) => {
+        const li = document.createElement("li");
+        li.textContent = rec;
+        li.style.opacity = 0;
+        li.style.transform = "translateX(-20px)";
+        li.style.transition = `opacity 0.4s ease ${(i * 0.1)}s, transform 0.4s ease ${(i * 0.1)}s`;
+        recommendationsList.appendChild(li);
+
+        setTimeout(() => {
+          li.style.opacity = 1;
+          li.style.transform = "translateX(0)";
+        }, 50);
+      });
+
+      hideElement(loadingMessage);
+      showElement(dashboard);
+
+    } catch (err) {
+      alert("Erreur réseau ou serveur, réessayez plus tard.");
+      hideElement(loadingMessage);
+    }
+  });
+
+  // Mode sombre toggle avec transition
+  darkModeToggle.addEventListener("change", () => {
+    document.body.classList.toggle("dark-mode", darkModeToggle.checked);
+  });
+
+  // Optionnel: garder la préférence mode sombre avec localStorage
+  if (localStorage.getItem("darkMode") === "true") {
+    darkModeToggle.checked = true;
+    document.body.classList.add("dark-mode");
+  }
+  darkModeToggle.addEventListener("change", () => {
+    localStorage.setItem("darkMode", darkModeToggle.checked);
+  });
+</script>
+</body>
+</html>
