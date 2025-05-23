@@ -1,0 +1,4692 @@
+[
+  {
+    "id": "d6Wob4Lmo5g",
+    "title": "Automatiser un portail coulissant - Tuto bricolage avec Robert",
+    "lengthSeconds": "1226",
+    "keywords": [
+      "robert longechal",
+      "tuto brico",
+      "automatiser un portail",
+      "motoriser un portail",
+      "portail coulissant",
+      "automatisation d'un portail coulissant",
+      "motorisation d'un portail coulissant",
+      "Kit Filo 400 Nice",
+      "laboutiqueduportail.com"
+    ],
+    "channelTitle": "Robert Longechal",
+    "channelId": "UCc_pRip5WE5RRxadu6mL1hw",
+    "description": "Automatisation d'un portail coulissant avec un kit et quelques accessoires de confort et de sécurité.\nOn commence par positionner le moteur, fixer ensuite les crémaillères sur le portail, poser les cellules et le clignotant de sécurité, procéder aux différents raccordements et installer enfin des digicodes de commande.\n___________________\nPour des informations complémentaires : https://www.laboutiqueduportail.com\n___________________\n10:10 Pourquoi motoriser un portail\n55:02 Comment choisir une motorisation\n01:38:09 Kit Filo 400 (Nice)\n02:22:01 Positionnement du moteur\n05:40:11 Fixation de la crémaillère\n08:35:04 Pose du flash\n10:28:16 Pose des photocellules\n12:10:01 Raccordements électriques\n14:02:00 Mise en route de l'automatisme\n16:20:00 Pose d'un digicode radio\n16:59:16 Pose d'un digicode filaire anti-vandale\n19:19:17 Des accessoires",
+    "thumbnail": [
+      {
+        "url": "https://i.ytimg.com/vi/d6Wob4Lmo5g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVHeCzHT42omy1Q_aM8psyix-alA",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/d6Wob4Lmo5g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPOxnpTLTkrOXldzXgnBT8KJ3hWA",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/d6Wob4Lmo5g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU9wwBf24iYBNVLbbrjQSJMu4lqQ",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/d6Wob4Lmo5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw_Bw-ooBkZw3LsQaPw3cAk9D9cQ",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/d6Wob4Lmo5g/maxresdefault.webp?v=62865c68",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "url": "https://i.ytimg.com/vi/d6Wob4Lmo5g/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "allowRatings": true,
+    "viewCount": "189550",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false,
+    "isCrawlable": true,
+    "isFamilySafe": true,
+    "availableCountries": [
+      "AD",
+      "AE",
+      "AF",
+      "AG",
+      "AI",
+      "AL",
+      "AM",
+      "AO",
+      "AQ",
+      "AR",
+      "AS",
+      "AT",
+      "AU",
+      "AW",
+      "AX",
+      "AZ",
+      "BA",
+      "BB",
+      "BD",
+      "BE",
+      "BF",
+      "BG",
+      "BH",
+      "BI",
+      "BJ",
+      "BL",
+      "BM",
+      "BN",
+      "BO",
+      "BQ",
+      "BR",
+      "BS",
+      "BT",
+      "BV",
+      "BW",
+      "BY",
+      "BZ",
+      "CA",
+      "CC",
+      "CD",
+      "CF",
+      "CG",
+      "CH",
+      "CI",
+      "CK",
+      "CL",
+      "CM",
+      "CN",
+      "CO",
+      "CR",
+      "CU",
+      "CV",
+      "CW",
+      "CX",
+      "CY",
+      "CZ",
+      "DE",
+      "DJ",
+      "DK",
+      "DM",
+      "DO",
+      "DZ",
+      "EC",
+      "EE",
+      "EG",
+      "EH",
+      "ER",
+      "ES",
+      "ET",
+      "FI",
+      "FJ",
+      "FK",
+      "FM",
+      "FO",
+      "FR",
+      "GA",
+      "GB",
+      "GD",
+      "GE",
+      "GF",
+      "GG",
+      "GH",
+      "GI",
+      "GL",
+      "GM",
+      "GN",
+      "GP",
+      "GQ",
+      "GR",
+      "GS",
+      "GT",
+      "GU",
+      "GW",
+      "GY",
+      "HK",
+      "HM",
+      "HN",
+      "HR",
+      "HT",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IM",
+      "IN",
+      "IO",
+      "IQ",
+      "IR",
+      "IS",
+      "IT",
+      "JE",
+      "JM",
+      "JO",
+      "JP",
+      "KE",
+      "KG",
+      "KH",
+      "KI",
+      "KM",
+      "KN",
+      "KP",
+      "KR",
+      "KW",
+      "KY",
+      "KZ",
+      "LA",
+      "LB",
+      "LC",
+      "LI",
+      "LK",
+      "LR",
+      "LS",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MD",
+      "ME",
+      "MF",
+      "MG",
+      "MH",
+      "MK",
+      "ML",
+      "MM",
+      "MN",
+      "MO",
+      "MP",
+      "MQ",
+      "MR",
+      "MS",
+      "MT",
+      "MU",
+      "MV",
+      "MW",
+      "MX",
+      "MY",
+      "MZ",
+      "NA",
+      "NC",
+      "NE",
+      "NF",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NP",
+      "NR",
+      "NU",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PF",
+      "PG",
+      "PH",
+      "PK",
+      "PL",
+      "PM",
+      "PN",
+      "PR",
+      "PS",
+      "PT",
+      "PW",
+      "PY",
+      "QA",
+      "RE",
+      "RO",
+      "RS",
+      "RU",
+      "RW",
+      "SA",
+      "SB",
+      "SC",
+      "SD",
+      "SE",
+      "SG",
+      "SH",
+      "SI",
+      "SJ",
+      "SK",
+      "SL",
+      "SM",
+      "SN",
+      "SO",
+      "SR",
+      "SS",
+      "ST",
+      "SV",
+      "SX",
+      "SY",
+      "SZ",
+      "TC",
+      "TD",
+      "TF",
+      "TG",
+      "TH",
+      "TJ",
+      "TK",
+      "TL",
+      "TM",
+      "TN",
+      "TO",
+      "TR",
+      "TT",
+      "TV",
+      "TW",
+      "TZ",
+      "UA",
+      "UG",
+      "UM",
+      "US",
+      "UY",
+      "UZ",
+      "VA",
+      "VC",
+      "VE",
+      "VG",
+      "VI",
+      "VN",
+      "VU",
+      "WF",
+      "WS",
+      "YE",
+      "YT",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "isUnlisted": false,
+    "category": "Howto & Style",
+    "publishDate": "2022-05-19T08:29:25-07:00",
+    "publishedAt": "2022-05-19T08:29:25-07:00",
+    "uploadDate": "2022-05-19T08:29:25-07:00",
+    "isShortsEligible": false,
+    "subtitles": {
+      "subtitles": [
+        {
+          "languageName": "French (auto-generated)",
+          "languageCode": "fr",
+          "isTranslatable": true,
+          "url": "https://www.youtube.com/api/timedtext?v=d6Wob4Lmo5g&ei=2lUGaNjdFsuL6dsPv4KyOA&caps=asr&opi=112496729&xoaf=5&xosf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1745270858&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1052D4C214254B99F40FF394DA86CD6D3B8256EE.42C9FC8AC3F1FB27CE4BF4925DD8708B4EC6E138&key=yt8&kind=asr&lang=fr&fmt=srv1"
+        }
+      ],
+      "format": "srv1",
+      "translationLanguages": [
+        {
+          "languageCode": "af",
+          "languageName": "Afrikaans"
+        },
+        {
+          "languageCode": "ak",
+          "languageName": "Akan"
+        },
+        {
+          "languageCode": "sq",
+          "languageName": "Albanian"
+        },
+        {
+          "languageCode": "am",
+          "languageName": "Amharic"
+        },
+        {
+          "languageCode": "ar",
+          "languageName": "Arabic"
+        },
+        {
+          "languageCode": "hy",
+          "languageName": "Armenian"
+        },
+        {
+          "languageCode": "as",
+          "languageName": "Assamese"
+        },
+        {
+          "languageCode": "ay",
+          "languageName": "Aymara"
+        },
+        {
+          "languageCode": "az",
+          "languageName": "Azerbaijani"
+        },
+        {
+          "languageCode": "bn",
+          "languageName": "Bangla"
+        },
+        {
+          "languageCode": "eu",
+          "languageName": "Basque"
+        },
+        {
+          "languageCode": "be",
+          "languageName": "Belarusian"
+        },
+        {
+          "languageCode": "bho",
+          "languageName": "Bhojpuri"
+        },
+        {
+          "languageCode": "bs",
+          "languageName": "Bosnian"
+        },
+        {
+          "languageCode": "bg",
+          "languageName": "Bulgarian"
+        },
+        {
+          "languageCode": "my",
+          "languageName": "Burmese"
+        },
+        {
+          "languageCode": "ca",
+          "languageName": "Catalan"
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": "Cebuano"
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": "Chinese (Simplified)"
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": "Chinese (Traditional)"
+        },
+        {
+          "languageCode": "co",
+          "languageName": "Corsican"
+        },
+        {
+          "languageCode": "hr",
+          "languageName": "Croatian"
+        },
+        {
+          "languageCode": "cs",
+          "languageName": "Czech"
+        },
+        {
+          "languageCode": "da",
+          "languageName": "Danish"
+        },
+        {
+          "languageCode": "dv",
+          "languageName": "Divehi"
+        },
+        {
+          "languageCode": "nl",
+          "languageName": "Dutch"
+        },
+        {
+          "languageCode": "en",
+          "languageName": "English"
+        },
+        {
+          "languageCode": "eo",
+          "languageName": "Esperanto"
+        },
+        {
+          "languageCode": "et",
+          "languageName": "Estonian"
+        },
+        {
+          "languageCode": "ee",
+          "languageName": "Ewe"
+        },
+        {
+          "languageCode": "fil",
+          "languageName": "Filipino"
+        },
+        {
+          "languageCode": "fi",
+          "languageName": "Finnish"
+        },
+        {
+          "languageCode": "fr",
+          "languageName": "French"
+        },
+        {
+          "languageCode": "gl",
+          "languageName": "Galician"
+        },
+        {
+          "languageCode": "lg",
+          "languageName": "Ganda"
+        },
+        {
+          "languageCode": "ka",
+          "languageName": "Georgian"
+        },
+        {
+          "languageCode": "de",
+          "languageName": "German"
+        },
+        {
+          "languageCode": "el",
+          "languageName": "Greek"
+        },
+        {
+          "languageCode": "gn",
+          "languageName": "Guarani"
+        },
+        {
+          "languageCode": "gu",
+          "languageName": "Gujarati"
+        },
+        {
+          "languageCode": "ht",
+          "languageName": "Haitian Creole"
+        },
+        {
+          "languageCode": "ha",
+          "languageName": "Hausa"
+        },
+        {
+          "languageCode": "haw",
+          "languageName": "Hawaiian"
+        },
+        {
+          "languageCode": "iw",
+          "languageName": "Hebrew"
+        },
+        {
+          "languageCode": "hi",
+          "languageName": "Hindi"
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": "Hmong"
+        },
+        {
+          "languageCode": "hu",
+          "languageName": "Hungarian"
+        },
+        {
+          "languageCode": "is",
+          "languageName": "Icelandic"
+        },
+        {
+          "languageCode": "ig",
+          "languageName": "Igbo"
+        },
+        {
+          "languageCode": "id",
+          "languageName": "Indonesian"
+        },
+        {
+          "languageCode": "ga",
+          "languageName": "Irish"
+        },
+        {
+          "languageCode": "it",
+          "languageName": "Italian"
+        },
+        {
+          "languageCode": "ja",
+          "languageName": "Japanese"
+        },
+        {
+          "languageCode": "jv",
+          "languageName": "Javanese"
+        },
+        {
+          "languageCode": "kn",
+          "languageName": "Kannada"
+        },
+        {
+          "languageCode": "kk",
+          "languageName": "Kazakh"
+        },
+        {
+          "languageCode": "km",
+          "languageName": "Khmer"
+        },
+        {
+          "languageCode": "rw",
+          "languageName": "Kinyarwanda"
+        },
+        {
+          "languageCode": "ko",
+          "languageName": "Korean"
+        },
+        {
+          "languageCode": "kri",
+          "languageName": "Krio"
+        },
+        {
+          "languageCode": "ku",
+          "languageName": "Kurdish"
+        },
+        {
+          "languageCode": "ky",
+          "languageName": "Kyrgyz"
+        },
+        {
+          "languageCode": "lo",
+          "languageName": "Lao"
+        },
+        {
+          "languageCode": "la",
+          "languageName": "Latin"
+        },
+        {
+          "languageCode": "lv",
+          "languageName": "Latvian"
+        },
+        {
+          "languageCode": "ln",
+          "languageName": "Lingala"
+        },
+        {
+          "languageCode": "lt",
+          "languageName": "Lithuanian"
+        },
+        {
+          "languageCode": "lb",
+          "languageName": "Luxembourgish"
+        },
+        {
+          "languageCode": "mk",
+          "languageName": "Macedonian"
+        },
+        {
+          "languageCode": "mg",
+          "languageName": "Malagasy"
+        },
+        {
+          "languageCode": "ms",
+          "languageName": "Malay"
+        },
+        {
+          "languageCode": "ml",
+          "languageName": "Malayalam"
+        },
+        {
+          "languageCode": "mt",
+          "languageName": "Maltese"
+        },
+        {
+          "languageCode": "mi",
+          "languageName": "Maori"
+        },
+        {
+          "languageCode": "mr",
+          "languageName": "Marathi"
+        },
+        {
+          "languageCode": "mn",
+          "languageName": "Mongolian"
+        },
+        {
+          "languageCode": "ne",
+          "languageName": "Nepali"
+        },
+        {
+          "languageCode": "nso",
+          "languageName": "Northern Sotho"
+        },
+        {
+          "languageCode": "no",
+          "languageName": "Norwegian"
+        },
+        {
+          "languageCode": "ny",
+          "languageName": "Nyanja"
+        },
+        {
+          "languageCode": "or",
+          "languageName": "Odia"
+        },
+        {
+          "languageCode": "om",
+          "languageName": "Oromo"
+        },
+        {
+          "languageCode": "ps",
+          "languageName": "Pashto"
+        },
+        {
+          "languageCode": "fa",
+          "languageName": "Persian"
+        },
+        {
+          "languageCode": "pl",
+          "languageName": "Polish"
+        },
+        {
+          "languageCode": "pt",
+          "languageName": "Portuguese"
+        },
+        {
+          "languageCode": "pa",
+          "languageName": "Punjabi"
+        },
+        {
+          "languageCode": "qu",
+          "languageName": "Quechua"
+        },
+        {
+          "languageCode": "ro",
+          "languageName": "Romanian"
+        },
+        {
+          "languageCode": "ru",
+          "languageName": "Russian"
+        },
+        {
+          "languageCode": "sm",
+          "languageName": "Samoan"
+        },
+        {
+          "languageCode": "sa",
+          "languageName": "Sanskrit"
+        },
+        {
+          "languageCode": "gd",
+          "languageName": "Scottish Gaelic"
+        },
+        {
+          "languageCode": "sr",
+          "languageName": "Serbian"
+        },
+        {
+          "languageCode": "sn",
+          "languageName": "Shona"
+        },
+        {
+          "languageCode": "sd",
+          "languageName": "Sindhi"
+        },
+        {
+          "languageCode": "si",
+          "languageName": "Sinhala"
+        },
+        {
+          "languageCode": "sk",
+          "languageName": "Slovak"
+        },
+        {
+          "languageCode": "sl",
+          "languageName": "Slovenian"
+        },
+        {
+          "languageCode": "so",
+          "languageName": "Somali"
+        },
+        {
+          "languageCode": "st",
+          "languageName": "Southern Sotho"
+        },
+        {
+          "languageCode": "es",
+          "languageName": "Spanish"
+        },
+        {
+          "languageCode": "su",
+          "languageName": "Sundanese"
+        },
+        {
+          "languageCode": "sw",
+          "languageName": "Swahili"
+        },
+        {
+          "languageCode": "sv",
+          "languageName": "Swedish"
+        },
+        {
+          "languageCode": "tg",
+          "languageName": "Tajik"
+        },
+        {
+          "languageCode": "ta",
+          "languageName": "Tamil"
+        },
+        {
+          "languageCode": "tt",
+          "languageName": "Tatar"
+        },
+        {
+          "languageCode": "te",
+          "languageName": "Telugu"
+        },
+        {
+          "languageCode": "th",
+          "languageName": "Thai"
+        },
+        {
+          "languageCode": "ti",
+          "languageName": "Tigrinya"
+        },
+        {
+          "languageCode": "ts",
+          "languageName": "Tsonga"
+        },
+        {
+          "languageCode": "tr",
+          "languageName": "Turkish"
+        },
+        {
+          "languageCode": "tk",
+          "languageName": "Turkmen"
+        },
+        {
+          "languageCode": "uk",
+          "languageName": "Ukrainian"
+        },
+        {
+          "languageCode": "und",
+          "languageName": "Unknown Language"
+        },
+        {
+          "languageCode": "ur",
+          "languageName": "Urdu"
+        },
+        {
+          "languageCode": "ug",
+          "languageName": "Uyghur"
+        },
+        {
+          "languageCode": "uz",
+          "languageName": "Uzbek"
+        },
+        {
+          "languageCode": "vi",
+          "languageName": "Vietnamese"
+        },
+        {
+          "languageCode": "cy",
+          "languageName": "Welsh"
+        },
+        {
+          "languageCode": "fy",
+          "languageName": "Western Frisian"
+        },
+        {
+          "languageCode": "xh",
+          "languageName": "Xhosa"
+        },
+        {
+          "languageCode": "yi",
+          "languageName": "Yiddish"
+        },
+        {
+          "languageCode": "yo",
+          "languageName": "Yoruba"
+        },
+        {
+          "languageCode": "zu",
+          "languageName": "Zulu"
+        }
+      ]
+    },
+    "storyboards": [
+      {
+        "width": "48",
+        "height": "27",
+        "thumbsCount": "100",
+        "columns": "10",
+        "rows": "10",
+        "interval": "0",
+        "storyboardCount": 1,
+        "url": [
+          "https://i.ytimg.com/sb/d6Wob4Lmo5g/storyboard3_L0/default.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiUrJmUBg==&sigh=rs$AOn4CLCJ9UDnvGbacnc6bkV5O1ZJb53QTQ"
+        ]
+      },
+      {
+        "width": "80",
+        "height": "45",
+        "thumbsCount": "124",
+        "columns": "10",
+        "rows": "10",
+        "interval": "10000",
+        "storyboardCount": 2,
+        "url": [
+          "https://i.ytimg.com/sb/d6Wob4Lmo5g/storyboard3_L1/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiUrJmUBg==&sigh=rs$AOn4CLDm4jPIkAqxwQQcievBLZVJeSx40w",
+          "https://i.ytimg.com/sb/d6Wob4Lmo5g/storyboard3_L1/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiUrJmUBg==&sigh=rs$AOn4CLDm4jPIkAqxwQQcievBLZVJeSx40w"
+        ]
+      },
+      {
+        "width": "160",
+        "height": "90",
+        "thumbsCount": "124",
+        "columns": "5",
+        "rows": "5",
+        "interval": "10000",
+        "storyboardCount": 5,
+        "url": [
+          "https://i.ytimg.com/sb/d6Wob4Lmo5g/storyboard3_L2/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiUrJmUBg==&sigh=rs$AOn4CLA5ZTIGrBt4AJQErvkVgT8zWPvbSg",
+          "https://i.ytimg.com/sb/d6Wob4Lmo5g/storyboard3_L2/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiUrJmUBg==&sigh=rs$AOn4CLA5ZTIGrBt4AJQErvkVgT8zWPvbSg",
+          "https://i.ytimg.com/sb/d6Wob4Lmo5g/storyboard3_L2/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiUrJmUBg==&sigh=rs$AOn4CLA5ZTIGrBt4AJQErvkVgT8zWPvbSg",
+          "https://i.ytimg.com/sb/d6Wob4Lmo5g/storyboard3_L2/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiUrJmUBg==&sigh=rs$AOn4CLA5ZTIGrBt4AJQErvkVgT8zWPvbSg",
+          "https://i.ytimg.com/sb/d6Wob4Lmo5g/storyboard3_L2/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiUrJmUBg==&sigh=rs$AOn4CLA5ZTIGrBt4AJQErvkVgT8zWPvbSg"
+        ]
+      }
+    ],
+    "includesPaidPromotion": true,
+    "playableInEmbed": true
+  },
+  {
+    "id": "wrjoGOPVcIE",
+    "title": "JOUETS ANTISTRESS TENDANCES 🐼🤩 ACTIVITÉS MANUELLES ET IDÉES DIY SATISFAISANTES",
+    "lengthSeconds": "3927",
+    "keywords": [
+      "activités manuelles",
+      "art",
+      "artisanat",
+      "astuces",
+      "brico sympa",
+      "bricolage",
+      "choses utiles",
+      "combine",
+      "fait-main",
+      "fait-maison",
+      "habileté",
+      "projets faciles",
+      "savoir-faire",
+      "tours",
+      "travaux manuels",
+      "trucs",
+      "tuto",
+      "tutorial"
+    ],
+    "channelTitle": "BRICO SYMPA",
+    "channelId": "UC9TJezP2M1ADmUYVl8hrQ2A",
+    "description": "Découvrez les jouets à la mode les plus cool et apprenez à fabriquer vos propres créations satisfaisantes. Préparez-vous pour un plaisir sans fin et un soulagement du stress avec ces gadgets incontournables ! 🎉🌀\n__________________________________________________\n\nCette vidéo a été réalisée à des fins de divertissement. Nous ne donnons aucune garantie quant à l'exhaustivité, la sécurité ou la fiabilité des actions qui s'y déroulent. Toute action que vous entreprendrez sur la base des informations contenues dans cette vidéo se fera sous votre propre responsabilité, et nous ne serons aucunement tenus responsables des éventuels dommages ou pertes. Il incombe au spectateur de faire preuve de discernement, de prudence et de précaution s'il envisage de reproduire ce qu'il a vu dans cette vidéo.\n\nLa vidéo suivante peut présenter certaines activités réalisées par nos acteurs dans un environnement contrôlé. Veuillez faire preuve de discernement, de prudence et de précaution si vous envisagez de reproduire ces actions.\n\nTous les produits et noms de compagnies apparaissant dans cette vidéo demeurent les marques commerciales™ ou marques déposées® de leurs propriétaires respectifs. Leur utilisation ne suggère aucune affiliation ni approbation de leur part.\n__________________________________________________\n\n\nPour ne rien perdre de BRICO SYMPA, abonnez-vous !: https://www.youtube.com/channel/UC9TJezP2M1ADmUYVl8hrQ2A?sub_confirmation=1\n\nNous ne sommes pas seulement ici mais aussi sur:\n\nFacebook: https://www.facebook.com/sympasympacom/\n\n__________________________________________________\n\n\nMusic by Epidemic Sound: https://www.epidemicsound.com/\n\nStock materials (photos, footages and other): https://www.depositphotos.com",
+    "thumbnail": [
+      {
+        "url": "https://i.ytimg.com/vi/wrjoGOPVcIE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0ZbYzduFGYq89oHgwo4uwdalxzg",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wrjoGOPVcIE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0fKCVuASKwz7Hky0jXESJ9TTtJA",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wrjoGOPVcIE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLKY8L7G0QhzGDhSrkAWjiIpwu2g",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wrjoGOPVcIE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN1r70jUA71fh-wU-DGHHxuPEwDQ",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wrjoGOPVcIE/maxresdefault.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wrjoGOPVcIE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "allowRatings": true,
+    "viewCount": "17862",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false,
+    "isCrawlable": true,
+    "isFamilySafe": true,
+    "availableCountries": [
+      "AD",
+      "AE",
+      "AF",
+      "AG",
+      "AI",
+      "AL",
+      "AM",
+      "AO",
+      "AQ",
+      "AR",
+      "AS",
+      "AT",
+      "AU",
+      "AW",
+      "AX",
+      "AZ",
+      "BA",
+      "BB",
+      "BD",
+      "BE",
+      "BF",
+      "BG",
+      "BH",
+      "BI",
+      "BJ",
+      "BL",
+      "BM",
+      "BN",
+      "BO",
+      "BQ",
+      "BR",
+      "BS",
+      "BT",
+      "BV",
+      "BW",
+      "BY",
+      "BZ",
+      "CA",
+      "CC",
+      "CD",
+      "CF",
+      "CG",
+      "CH",
+      "CI",
+      "CK",
+      "CL",
+      "CM",
+      "CN",
+      "CO",
+      "CR",
+      "CU",
+      "CV",
+      "CW",
+      "CX",
+      "CY",
+      "CZ",
+      "DE",
+      "DJ",
+      "DK",
+      "DM",
+      "DO",
+      "DZ",
+      "EC",
+      "EE",
+      "EG",
+      "EH",
+      "ER",
+      "ES",
+      "ET",
+      "FI",
+      "FJ",
+      "FK",
+      "FM",
+      "FO",
+      "FR",
+      "GA",
+      "GB",
+      "GD",
+      "GE",
+      "GF",
+      "GG",
+      "GH",
+      "GI",
+      "GL",
+      "GM",
+      "GN",
+      "GP",
+      "GQ",
+      "GR",
+      "GS",
+      "GT",
+      "GU",
+      "GW",
+      "GY",
+      "HK",
+      "HM",
+      "HN",
+      "HR",
+      "HT",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IM",
+      "IN",
+      "IO",
+      "IQ",
+      "IR",
+      "IS",
+      "IT",
+      "JE",
+      "JM",
+      "JO",
+      "JP",
+      "KE",
+      "KG",
+      "KH",
+      "KI",
+      "KM",
+      "KN",
+      "KP",
+      "KR",
+      "KW",
+      "KY",
+      "KZ",
+      "LA",
+      "LB",
+      "LC",
+      "LI",
+      "LK",
+      "LR",
+      "LS",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MD",
+      "ME",
+      "MF",
+      "MG",
+      "MH",
+      "MK",
+      "ML",
+      "MM",
+      "MN",
+      "MO",
+      "MP",
+      "MQ",
+      "MR",
+      "MS",
+      "MT",
+      "MU",
+      "MV",
+      "MW",
+      "MX",
+      "MY",
+      "MZ",
+      "NA",
+      "NC",
+      "NE",
+      "NF",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NP",
+      "NR",
+      "NU",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PF",
+      "PG",
+      "PH",
+      "PK",
+      "PL",
+      "PM",
+      "PN",
+      "PR",
+      "PS",
+      "PT",
+      "PW",
+      "PY",
+      "QA",
+      "RE",
+      "RO",
+      "RS",
+      "RU",
+      "RW",
+      "SA",
+      "SB",
+      "SC",
+      "SD",
+      "SE",
+      "SG",
+      "SH",
+      "SI",
+      "SJ",
+      "SK",
+      "SL",
+      "SM",
+      "SN",
+      "SO",
+      "SR",
+      "SS",
+      "ST",
+      "SV",
+      "SX",
+      "SY",
+      "SZ",
+      "TC",
+      "TD",
+      "TF",
+      "TG",
+      "TH",
+      "TJ",
+      "TK",
+      "TL",
+      "TM",
+      "TN",
+      "TO",
+      "TR",
+      "TT",
+      "TV",
+      "TW",
+      "TZ",
+      "UA",
+      "UG",
+      "UM",
+      "US",
+      "UY",
+      "UZ",
+      "VA",
+      "VC",
+      "VE",
+      "VG",
+      "VI",
+      "VN",
+      "VU",
+      "WF",
+      "WS",
+      "YE",
+      "YT",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "isUnlisted": false,
+    "category": "Howto & Style",
+    "publishDate": "2024-07-24T06:01:03-07:00",
+    "publishedAt": "2024-07-24T06:01:03-07:00",
+    "uploadDate": "2024-07-24T06:01:03-07:00",
+    "isShortsEligible": false,
+    "subtitles": {
+      "subtitles": [
+        {
+          "languageName": "English (auto-generated)",
+          "languageCode": "en",
+          "isTranslatable": true,
+          "url": "https://www.youtube.com/api/timedtext?v=wrjoGOPVcIE&ei=21UGaNfZBuKj6dsPiLXWSA&caps=asr&opi=112496729&xoaf=5&xosf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1745270859&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=40CBBAC16B2D9D95A16027FE6EB76856D5A971FD.C600718B5CCFA73ACADFD969582A335F95969A2C&key=yt8&kind=asr&lang=en&fmt=srv1"
+        }
+      ],
+      "format": "srv1",
+      "translationLanguages": [
+        {
+          "languageCode": "af",
+          "languageName": "Afrikaans"
+        },
+        {
+          "languageCode": "ak",
+          "languageName": "Akan"
+        },
+        {
+          "languageCode": "sq",
+          "languageName": "Albanian"
+        },
+        {
+          "languageCode": "am",
+          "languageName": "Amharic"
+        },
+        {
+          "languageCode": "ar",
+          "languageName": "Arabic"
+        },
+        {
+          "languageCode": "hy",
+          "languageName": "Armenian"
+        },
+        {
+          "languageCode": "as",
+          "languageName": "Assamese"
+        },
+        {
+          "languageCode": "ay",
+          "languageName": "Aymara"
+        },
+        {
+          "languageCode": "az",
+          "languageName": "Azerbaijani"
+        },
+        {
+          "languageCode": "bn",
+          "languageName": "Bangla"
+        },
+        {
+          "languageCode": "eu",
+          "languageName": "Basque"
+        },
+        {
+          "languageCode": "be",
+          "languageName": "Belarusian"
+        },
+        {
+          "languageCode": "bho",
+          "languageName": "Bhojpuri"
+        },
+        {
+          "languageCode": "bs",
+          "languageName": "Bosnian"
+        },
+        {
+          "languageCode": "bg",
+          "languageName": "Bulgarian"
+        },
+        {
+          "languageCode": "my",
+          "languageName": "Burmese"
+        },
+        {
+          "languageCode": "ca",
+          "languageName": "Catalan"
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": "Cebuano"
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": "Chinese (Simplified)"
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": "Chinese (Traditional)"
+        },
+        {
+          "languageCode": "co",
+          "languageName": "Corsican"
+        },
+        {
+          "languageCode": "hr",
+          "languageName": "Croatian"
+        },
+        {
+          "languageCode": "cs",
+          "languageName": "Czech"
+        },
+        {
+          "languageCode": "da",
+          "languageName": "Danish"
+        },
+        {
+          "languageCode": "dv",
+          "languageName": "Divehi"
+        },
+        {
+          "languageCode": "nl",
+          "languageName": "Dutch"
+        },
+        {
+          "languageCode": "en",
+          "languageName": "English"
+        },
+        {
+          "languageCode": "eo",
+          "languageName": "Esperanto"
+        },
+        {
+          "languageCode": "et",
+          "languageName": "Estonian"
+        },
+        {
+          "languageCode": "ee",
+          "languageName": "Ewe"
+        },
+        {
+          "languageCode": "fil",
+          "languageName": "Filipino"
+        },
+        {
+          "languageCode": "fi",
+          "languageName": "Finnish"
+        },
+        {
+          "languageCode": "fr",
+          "languageName": "French"
+        },
+        {
+          "languageCode": "gl",
+          "languageName": "Galician"
+        },
+        {
+          "languageCode": "lg",
+          "languageName": "Ganda"
+        },
+        {
+          "languageCode": "ka",
+          "languageName": "Georgian"
+        },
+        {
+          "languageCode": "de",
+          "languageName": "German"
+        },
+        {
+          "languageCode": "el",
+          "languageName": "Greek"
+        },
+        {
+          "languageCode": "gn",
+          "languageName": "Guarani"
+        },
+        {
+          "languageCode": "gu",
+          "languageName": "Gujarati"
+        },
+        {
+          "languageCode": "ht",
+          "languageName": "Haitian Creole"
+        },
+        {
+          "languageCode": "ha",
+          "languageName": "Hausa"
+        },
+        {
+          "languageCode": "haw",
+          "languageName": "Hawaiian"
+        },
+        {
+          "languageCode": "iw",
+          "languageName": "Hebrew"
+        },
+        {
+          "languageCode": "hi",
+          "languageName": "Hindi"
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": "Hmong"
+        },
+        {
+          "languageCode": "hu",
+          "languageName": "Hungarian"
+        },
+        {
+          "languageCode": "is",
+          "languageName": "Icelandic"
+        },
+        {
+          "languageCode": "ig",
+          "languageName": "Igbo"
+        },
+        {
+          "languageCode": "id",
+          "languageName": "Indonesian"
+        },
+        {
+          "languageCode": "ga",
+          "languageName": "Irish"
+        },
+        {
+          "languageCode": "it",
+          "languageName": "Italian"
+        },
+        {
+          "languageCode": "ja",
+          "languageName": "Japanese"
+        },
+        {
+          "languageCode": "jv",
+          "languageName": "Javanese"
+        },
+        {
+          "languageCode": "kn",
+          "languageName": "Kannada"
+        },
+        {
+          "languageCode": "kk",
+          "languageName": "Kazakh"
+        },
+        {
+          "languageCode": "km",
+          "languageName": "Khmer"
+        },
+        {
+          "languageCode": "rw",
+          "languageName": "Kinyarwanda"
+        },
+        {
+          "languageCode": "ko",
+          "languageName": "Korean"
+        },
+        {
+          "languageCode": "kri",
+          "languageName": "Krio"
+        },
+        {
+          "languageCode": "ku",
+          "languageName": "Kurdish"
+        },
+        {
+          "languageCode": "ky",
+          "languageName": "Kyrgyz"
+        },
+        {
+          "languageCode": "lo",
+          "languageName": "Lao"
+        },
+        {
+          "languageCode": "la",
+          "languageName": "Latin"
+        },
+        {
+          "languageCode": "lv",
+          "languageName": "Latvian"
+        },
+        {
+          "languageCode": "ln",
+          "languageName": "Lingala"
+        },
+        {
+          "languageCode": "lt",
+          "languageName": "Lithuanian"
+        },
+        {
+          "languageCode": "lb",
+          "languageName": "Luxembourgish"
+        },
+        {
+          "languageCode": "mk",
+          "languageName": "Macedonian"
+        },
+        {
+          "languageCode": "mg",
+          "languageName": "Malagasy"
+        },
+        {
+          "languageCode": "ms",
+          "languageName": "Malay"
+        },
+        {
+          "languageCode": "ml",
+          "languageName": "Malayalam"
+        },
+        {
+          "languageCode": "mt",
+          "languageName": "Maltese"
+        },
+        {
+          "languageCode": "mi",
+          "languageName": "Maori"
+        },
+        {
+          "languageCode": "mr",
+          "languageName": "Marathi"
+        },
+        {
+          "languageCode": "mn",
+          "languageName": "Mongolian"
+        },
+        {
+          "languageCode": "ne",
+          "languageName": "Nepali"
+        },
+        {
+          "languageCode": "nso",
+          "languageName": "Northern Sotho"
+        },
+        {
+          "languageCode": "no",
+          "languageName": "Norwegian"
+        },
+        {
+          "languageCode": "ny",
+          "languageName": "Nyanja"
+        },
+        {
+          "languageCode": "or",
+          "languageName": "Odia"
+        },
+        {
+          "languageCode": "om",
+          "languageName": "Oromo"
+        },
+        {
+          "languageCode": "ps",
+          "languageName": "Pashto"
+        },
+        {
+          "languageCode": "fa",
+          "languageName": "Persian"
+        },
+        {
+          "languageCode": "pl",
+          "languageName": "Polish"
+        },
+        {
+          "languageCode": "pt",
+          "languageName": "Portuguese"
+        },
+        {
+          "languageCode": "pa",
+          "languageName": "Punjabi"
+        },
+        {
+          "languageCode": "qu",
+          "languageName": "Quechua"
+        },
+        {
+          "languageCode": "ro",
+          "languageName": "Romanian"
+        },
+        {
+          "languageCode": "ru",
+          "languageName": "Russian"
+        },
+        {
+          "languageCode": "sm",
+          "languageName": "Samoan"
+        },
+        {
+          "languageCode": "sa",
+          "languageName": "Sanskrit"
+        },
+        {
+          "languageCode": "gd",
+          "languageName": "Scottish Gaelic"
+        },
+        {
+          "languageCode": "sr",
+          "languageName": "Serbian"
+        },
+        {
+          "languageCode": "sn",
+          "languageName": "Shona"
+        },
+        {
+          "languageCode": "sd",
+          "languageName": "Sindhi"
+        },
+        {
+          "languageCode": "si",
+          "languageName": "Sinhala"
+        },
+        {
+          "languageCode": "sk",
+          "languageName": "Slovak"
+        },
+        {
+          "languageCode": "sl",
+          "languageName": "Slovenian"
+        },
+        {
+          "languageCode": "so",
+          "languageName": "Somali"
+        },
+        {
+          "languageCode": "st",
+          "languageName": "Southern Sotho"
+        },
+        {
+          "languageCode": "es",
+          "languageName": "Spanish"
+        },
+        {
+          "languageCode": "su",
+          "languageName": "Sundanese"
+        },
+        {
+          "languageCode": "sw",
+          "languageName": "Swahili"
+        },
+        {
+          "languageCode": "sv",
+          "languageName": "Swedish"
+        },
+        {
+          "languageCode": "tg",
+          "languageName": "Tajik"
+        },
+        {
+          "languageCode": "ta",
+          "languageName": "Tamil"
+        },
+        {
+          "languageCode": "tt",
+          "languageName": "Tatar"
+        },
+        {
+          "languageCode": "te",
+          "languageName": "Telugu"
+        },
+        {
+          "languageCode": "th",
+          "languageName": "Thai"
+        },
+        {
+          "languageCode": "ti",
+          "languageName": "Tigrinya"
+        },
+        {
+          "languageCode": "ts",
+          "languageName": "Tsonga"
+        },
+        {
+          "languageCode": "tr",
+          "languageName": "Turkish"
+        },
+        {
+          "languageCode": "tk",
+          "languageName": "Turkmen"
+        },
+        {
+          "languageCode": "uk",
+          "languageName": "Ukrainian"
+        },
+        {
+          "languageCode": "und",
+          "languageName": "Unknown Language"
+        },
+        {
+          "languageCode": "ur",
+          "languageName": "Urdu"
+        },
+        {
+          "languageCode": "ug",
+          "languageName": "Uyghur"
+        },
+        {
+          "languageCode": "uz",
+          "languageName": "Uzbek"
+        },
+        {
+          "languageCode": "vi",
+          "languageName": "Vietnamese"
+        },
+        {
+          "languageCode": "cy",
+          "languageName": "Welsh"
+        },
+        {
+          "languageCode": "fy",
+          "languageName": "Western Frisian"
+        },
+        {
+          "languageCode": "xh",
+          "languageName": "Xhosa"
+        },
+        {
+          "languageCode": "yi",
+          "languageName": "Yiddish"
+        },
+        {
+          "languageCode": "yo",
+          "languageName": "Yoruba"
+        },
+        {
+          "languageCode": "zu",
+          "languageName": "Zulu"
+        }
+      ]
+    },
+    "storyboards": [
+      {
+        "width": "48",
+        "height": "27",
+        "thumbsCount": "100",
+        "columns": "10",
+        "rows": "10",
+        "interval": "0",
+        "storyboardCount": 1,
+        "url": [
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L0/default.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLC1NcnpUBrbNHIPnJgfkgjxDkz23Q"
+        ]
+      },
+      {
+        "width": "80",
+        "height": "45",
+        "thumbsCount": "394",
+        "columns": "10",
+        "rows": "10",
+        "interval": "10000",
+        "storyboardCount": 4,
+        "url": [
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L1/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLB8h1HQATmS9p9lVN08f_J6ft_ssA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L1/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLB8h1HQATmS9p9lVN08f_J6ft_ssA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L1/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLB8h1HQATmS9p9lVN08f_J6ft_ssA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L1/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLB8h1HQATmS9p9lVN08f_J6ft_ssA"
+        ]
+      },
+      {
+        "width": "160",
+        "height": "90",
+        "thumbsCount": "394",
+        "columns": "5",
+        "rows": "5",
+        "interval": "10000",
+        "storyboardCount": 16,
+        "url": [
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M5.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M7.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M8.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M10.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M11.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M12.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M13.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M14.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L2/M15.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLBrfVvF35Ma2HgRNYWWRoFAxlnoog"
+        ]
+      },
+      {
+        "width": "320",
+        "height": "180",
+        "thumbsCount": "394",
+        "columns": "3",
+        "rows": "3",
+        "interval": "10000",
+        "storyboardCount": 44,
+        "url": [
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M5.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M7.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M8.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M10.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M11.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M12.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M13.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M14.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M15.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M16.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M17.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M18.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M19.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M20.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M21.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M22.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M23.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M24.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M25.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M26.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M27.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M28.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M29.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M30.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M31.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M32.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M33.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M34.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M35.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M36.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M37.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M38.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M39.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M40.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M41.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M42.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA",
+          "https://i.ytimg.com/sb/wrjoGOPVcIE/storyboard3_L3/M43.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgiGiP-0Bg==&sigh=rs$AOn4CLDqHex5htJWi7wluAjfTq369N2EOA"
+        ]
+      }
+    ],
+    "playableInEmbed": true
+  },
+  {
+    "id": "HkVdG2htHbw",
+    "title": "ASTUCES ET BRICOLAGES GIRLY POUR L'ÉCOLE 💄 Drôles de DIY & Idées pour Devenir Populaire par 123 GO !",
+    "lengthSeconds": "10372",
+    "keywords": [
+      "123 go",
+      "123go",
+      "123go !",
+      "amical",
+      "amis",
+      "amusant",
+      "blagues amusantes",
+      "blagues faciles",
+      "bricolage",
+      "bricolages",
+      "comment",
+      "comment faire une farce",
+      "diy",
+      "drôle",
+      "défi",
+      "défis",
+      "farce",
+      "farce avec de la nourriture",
+      "farces",
+      "mode d’emploi",
+      "plaisanteries faites maison",
+      "tour",
+      "tours",
+      "tours pour tes amis",
+      "tutoriel"
+    ],
+    "channelTitle": "123 GO! French",
+    "channelId": "UC8Q2dkv76LcH7lh3oDhY8aQ",
+    "description": "Qui a dit que l'école ne peut pas être glamour ? Cette vidéo vous inspirera à exprimer votre style unique et votre personnalité, faisant de chaque journée à l'école une aventure mémorable. Alors, rassemblez vos fournitures de bricolage, appuyez sur play, et laissez la créativité commencer !\n\n👭 N'oubliez pas de partager cette vidéo avec vos amis et camarades de classe, car tout le monde mérite un peu de paillettes et de rires dans leur journée scolaire. Cliquez sur le bouton j'aime, abonnez-vous pour plus de contenu créatif, et faites-nous savoir dans les commentaires quel a été votre favori parmi les astuces girly pour l'école!\n\n#123GO! #DIY #amusement\n➡️Musique TheSoul:\r\n\r\n◉ Spotify: https://sptfy.com/TheSoulMusic\r\n◉ https://www.music.thesoul-publishing.com\r\n◉ TikTok: https://www.tiktok.com/@thesoul.music\r\n◉ YouTube: https://m.youtube.com/channel/UCPo7CKRiDGn4h-H0RK5JdfA\r\n\r\nAbonne-toi à 123GO! French: http://bit.do/123go_French\r\n------------------------------------------------------------------------------------------\r\n\r\nMusique par Epidemic Sound https://www.epidemicsound.com/\r\n\r\nStock de fichiers (photos, vidéos et autres) :\r\nhttps://www.depositphotos.com\r\nhttps://www.shutterstock.com\r\n\r\nCette vidéo est réalisée dans un but de divertissement. Nous ne faisons aucune garantie quant à sa faisabilité, sa fiabilité ou les risques qui l’entourent. Toute action basée sur les informations recueillies dans cette vidéo n'engage que vous et nous déclinons toute responsabilité en cas de dommages ou de pertes. Il relève de la responsabilité du spectateur de faire preuve de jugement, d'attention et de toutes les précautions nécessaires en vue de reproduire ces actions.\r\n\r\nLa vidéo suivante peut mettre en scène des activités pratiquées par nos acteurs dans un environnement contrôlé. S'il vous plait, faites preuve de jugement, d'attention et de toutes les précautions nécessaires si vous prévoyez de les reproduire.",
+    "thumbnail": [
+      {
+        "url": "https://i.ytimg.com/vi/HkVdG2htHbw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0IqqvHi8kScR6a4CEGyv490vhqQ",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HkVdG2htHbw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDIywUHt7wlhIbf4ljDK2eZ3pR-QQ",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HkVdG2htHbw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA50HQCjC_f53oQuCijuQtjpqCevQ",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HkVdG2htHbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMhVrxPIRsnSoY4IYRZLj-kde3QA",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HkVdG2htHbw/maxresdefault.jpg?v=65bef8ed",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HkVdG2htHbw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "allowRatings": true,
+    "viewCount": "1346282",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": true,
+    "isCrawlable": true,
+    "isFamilySafe": true,
+    "availableCountries": [
+      "AD",
+      "AE",
+      "AF",
+      "AG",
+      "AI",
+      "AL",
+      "AM",
+      "AO",
+      "AQ",
+      "AR",
+      "AS",
+      "AT",
+      "AU",
+      "AW",
+      "AX",
+      "AZ",
+      "BA",
+      "BB",
+      "BD",
+      "BE",
+      "BF",
+      "BG",
+      "BH",
+      "BI",
+      "BJ",
+      "BL",
+      "BM",
+      "BN",
+      "BO",
+      "BQ",
+      "BR",
+      "BS",
+      "BT",
+      "BV",
+      "BW",
+      "BY",
+      "BZ",
+      "CA",
+      "CC",
+      "CD",
+      "CF",
+      "CG",
+      "CH",
+      "CI",
+      "CK",
+      "CL",
+      "CM",
+      "CN",
+      "CO",
+      "CR",
+      "CU",
+      "CV",
+      "CW",
+      "CX",
+      "CY",
+      "CZ",
+      "DE",
+      "DJ",
+      "DK",
+      "DM",
+      "DO",
+      "DZ",
+      "EC",
+      "EE",
+      "EG",
+      "EH",
+      "ER",
+      "ES",
+      "ET",
+      "FI",
+      "FJ",
+      "FK",
+      "FM",
+      "FO",
+      "FR",
+      "GA",
+      "GB",
+      "GD",
+      "GE",
+      "GF",
+      "GG",
+      "GH",
+      "GI",
+      "GL",
+      "GM",
+      "GN",
+      "GP",
+      "GQ",
+      "GR",
+      "GS",
+      "GT",
+      "GU",
+      "GW",
+      "GY",
+      "HK",
+      "HM",
+      "HN",
+      "HR",
+      "HT",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IM",
+      "IN",
+      "IO",
+      "IQ",
+      "IR",
+      "IS",
+      "IT",
+      "JE",
+      "JM",
+      "JO",
+      "JP",
+      "KE",
+      "KG",
+      "KH",
+      "KI",
+      "KM",
+      "KN",
+      "KP",
+      "KR",
+      "KW",
+      "KY",
+      "KZ",
+      "LA",
+      "LB",
+      "LC",
+      "LI",
+      "LK",
+      "LR",
+      "LS",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MD",
+      "ME",
+      "MF",
+      "MG",
+      "MH",
+      "MK",
+      "ML",
+      "MM",
+      "MN",
+      "MO",
+      "MP",
+      "MQ",
+      "MR",
+      "MS",
+      "MT",
+      "MU",
+      "MV",
+      "MW",
+      "MX",
+      "MY",
+      "MZ",
+      "NA",
+      "NC",
+      "NE",
+      "NF",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NP",
+      "NR",
+      "NU",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PF",
+      "PG",
+      "PH",
+      "PK",
+      "PL",
+      "PM",
+      "PN",
+      "PR",
+      "PS",
+      "PT",
+      "PW",
+      "PY",
+      "QA",
+      "RE",
+      "RO",
+      "RS",
+      "RU",
+      "RW",
+      "SA",
+      "SB",
+      "SC",
+      "SD",
+      "SE",
+      "SG",
+      "SH",
+      "SI",
+      "SJ",
+      "SK",
+      "SL",
+      "SM",
+      "SN",
+      "SO",
+      "SR",
+      "SS",
+      "ST",
+      "SV",
+      "SX",
+      "SY",
+      "SZ",
+      "TC",
+      "TD",
+      "TF",
+      "TG",
+      "TH",
+      "TJ",
+      "TK",
+      "TL",
+      "TM",
+      "TN",
+      "TO",
+      "TR",
+      "TT",
+      "TV",
+      "TW",
+      "TZ",
+      "UA",
+      "UG",
+      "UM",
+      "US",
+      "UY",
+      "UZ",
+      "VA",
+      "VC",
+      "VE",
+      "VG",
+      "VI",
+      "VN",
+      "VU",
+      "WF",
+      "WS",
+      "YE",
+      "YT",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "isUnlisted": false,
+    "category": "Howto & Style",
+    "publishDate": "2024-02-05T03:53:25-08:00",
+    "publishedAt": "2024-02-05T03:53:25-08:00",
+    "uploadDate": "2024-02-05T03:53:25-08:00",
+    "isShortsEligible": false,
+    "subtitles": {
+      "subtitles": [
+        {
+          "languageName": "French (auto-generated)",
+          "languageCode": "fr",
+          "isTranslatable": true,
+          "url": "https://www.youtube.com/api/timedtext?v=HkVdG2htHbw&ei=21UGaIPPK43Gi9oPivbayA8&caps=asr&opi=112496729&xoaf=5&xosf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1745270859&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8C27DB778A414F57AE7C493998BA8CE3E279617B.C7261B1D4AF9041E2156C9F9DBC86CF86D1A8BD2&key=yt8&kind=asr&lang=fr&fmt=srv1"
+        }
+      ],
+      "format": "srv1",
+      "translationLanguages": [
+        {
+          "languageCode": "af",
+          "languageName": "Afrikaans"
+        },
+        {
+          "languageCode": "ak",
+          "languageName": "Akan"
+        },
+        {
+          "languageCode": "sq",
+          "languageName": "Albanian"
+        },
+        {
+          "languageCode": "am",
+          "languageName": "Amharic"
+        },
+        {
+          "languageCode": "ar",
+          "languageName": "Arabic"
+        },
+        {
+          "languageCode": "hy",
+          "languageName": "Armenian"
+        },
+        {
+          "languageCode": "as",
+          "languageName": "Assamese"
+        },
+        {
+          "languageCode": "ay",
+          "languageName": "Aymara"
+        },
+        {
+          "languageCode": "az",
+          "languageName": "Azerbaijani"
+        },
+        {
+          "languageCode": "bn",
+          "languageName": "Bangla"
+        },
+        {
+          "languageCode": "eu",
+          "languageName": "Basque"
+        },
+        {
+          "languageCode": "be",
+          "languageName": "Belarusian"
+        },
+        {
+          "languageCode": "bho",
+          "languageName": "Bhojpuri"
+        },
+        {
+          "languageCode": "bs",
+          "languageName": "Bosnian"
+        },
+        {
+          "languageCode": "bg",
+          "languageName": "Bulgarian"
+        },
+        {
+          "languageCode": "my",
+          "languageName": "Burmese"
+        },
+        {
+          "languageCode": "ca",
+          "languageName": "Catalan"
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": "Cebuano"
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": "Chinese (Simplified)"
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": "Chinese (Traditional)"
+        },
+        {
+          "languageCode": "co",
+          "languageName": "Corsican"
+        },
+        {
+          "languageCode": "hr",
+          "languageName": "Croatian"
+        },
+        {
+          "languageCode": "cs",
+          "languageName": "Czech"
+        },
+        {
+          "languageCode": "da",
+          "languageName": "Danish"
+        },
+        {
+          "languageCode": "dv",
+          "languageName": "Divehi"
+        },
+        {
+          "languageCode": "nl",
+          "languageName": "Dutch"
+        },
+        {
+          "languageCode": "en",
+          "languageName": "English"
+        },
+        {
+          "languageCode": "eo",
+          "languageName": "Esperanto"
+        },
+        {
+          "languageCode": "et",
+          "languageName": "Estonian"
+        },
+        {
+          "languageCode": "ee",
+          "languageName": "Ewe"
+        },
+        {
+          "languageCode": "fil",
+          "languageName": "Filipino"
+        },
+        {
+          "languageCode": "fi",
+          "languageName": "Finnish"
+        },
+        {
+          "languageCode": "fr",
+          "languageName": "French"
+        },
+        {
+          "languageCode": "gl",
+          "languageName": "Galician"
+        },
+        {
+          "languageCode": "lg",
+          "languageName": "Ganda"
+        },
+        {
+          "languageCode": "ka",
+          "languageName": "Georgian"
+        },
+        {
+          "languageCode": "de",
+          "languageName": "German"
+        },
+        {
+          "languageCode": "el",
+          "languageName": "Greek"
+        },
+        {
+          "languageCode": "gn",
+          "languageName": "Guarani"
+        },
+        {
+          "languageCode": "gu",
+          "languageName": "Gujarati"
+        },
+        {
+          "languageCode": "ht",
+          "languageName": "Haitian Creole"
+        },
+        {
+          "languageCode": "ha",
+          "languageName": "Hausa"
+        },
+        {
+          "languageCode": "haw",
+          "languageName": "Hawaiian"
+        },
+        {
+          "languageCode": "iw",
+          "languageName": "Hebrew"
+        },
+        {
+          "languageCode": "hi",
+          "languageName": "Hindi"
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": "Hmong"
+        },
+        {
+          "languageCode": "hu",
+          "languageName": "Hungarian"
+        },
+        {
+          "languageCode": "is",
+          "languageName": "Icelandic"
+        },
+        {
+          "languageCode": "ig",
+          "languageName": "Igbo"
+        },
+        {
+          "languageCode": "id",
+          "languageName": "Indonesian"
+        },
+        {
+          "languageCode": "ga",
+          "languageName": "Irish"
+        },
+        {
+          "languageCode": "it",
+          "languageName": "Italian"
+        },
+        {
+          "languageCode": "ja",
+          "languageName": "Japanese"
+        },
+        {
+          "languageCode": "jv",
+          "languageName": "Javanese"
+        },
+        {
+          "languageCode": "kn",
+          "languageName": "Kannada"
+        },
+        {
+          "languageCode": "kk",
+          "languageName": "Kazakh"
+        },
+        {
+          "languageCode": "km",
+          "languageName": "Khmer"
+        },
+        {
+          "languageCode": "rw",
+          "languageName": "Kinyarwanda"
+        },
+        {
+          "languageCode": "ko",
+          "languageName": "Korean"
+        },
+        {
+          "languageCode": "kri",
+          "languageName": "Krio"
+        },
+        {
+          "languageCode": "ku",
+          "languageName": "Kurdish"
+        },
+        {
+          "languageCode": "ky",
+          "languageName": "Kyrgyz"
+        },
+        {
+          "languageCode": "lo",
+          "languageName": "Lao"
+        },
+        {
+          "languageCode": "la",
+          "languageName": "Latin"
+        },
+        {
+          "languageCode": "lv",
+          "languageName": "Latvian"
+        },
+        {
+          "languageCode": "ln",
+          "languageName": "Lingala"
+        },
+        {
+          "languageCode": "lt",
+          "languageName": "Lithuanian"
+        },
+        {
+          "languageCode": "lb",
+          "languageName": "Luxembourgish"
+        },
+        {
+          "languageCode": "mk",
+          "languageName": "Macedonian"
+        },
+        {
+          "languageCode": "mg",
+          "languageName": "Malagasy"
+        },
+        {
+          "languageCode": "ms",
+          "languageName": "Malay"
+        },
+        {
+          "languageCode": "ml",
+          "languageName": "Malayalam"
+        },
+        {
+          "languageCode": "mt",
+          "languageName": "Maltese"
+        },
+        {
+          "languageCode": "mi",
+          "languageName": "Maori"
+        },
+        {
+          "languageCode": "mr",
+          "languageName": "Marathi"
+        },
+        {
+          "languageCode": "mn",
+          "languageName": "Mongolian"
+        },
+        {
+          "languageCode": "ne",
+          "languageName": "Nepali"
+        },
+        {
+          "languageCode": "nso",
+          "languageName": "Northern Sotho"
+        },
+        {
+          "languageCode": "no",
+          "languageName": "Norwegian"
+        },
+        {
+          "languageCode": "ny",
+          "languageName": "Nyanja"
+        },
+        {
+          "languageCode": "or",
+          "languageName": "Odia"
+        },
+        {
+          "languageCode": "om",
+          "languageName": "Oromo"
+        },
+        {
+          "languageCode": "ps",
+          "languageName": "Pashto"
+        },
+        {
+          "languageCode": "fa",
+          "languageName": "Persian"
+        },
+        {
+          "languageCode": "pl",
+          "languageName": "Polish"
+        },
+        {
+          "languageCode": "pt",
+          "languageName": "Portuguese"
+        },
+        {
+          "languageCode": "pa",
+          "languageName": "Punjabi"
+        },
+        {
+          "languageCode": "qu",
+          "languageName": "Quechua"
+        },
+        {
+          "languageCode": "ro",
+          "languageName": "Romanian"
+        },
+        {
+          "languageCode": "ru",
+          "languageName": "Russian"
+        },
+        {
+          "languageCode": "sm",
+          "languageName": "Samoan"
+        },
+        {
+          "languageCode": "sa",
+          "languageName": "Sanskrit"
+        },
+        {
+          "languageCode": "gd",
+          "languageName": "Scottish Gaelic"
+        },
+        {
+          "languageCode": "sr",
+          "languageName": "Serbian"
+        },
+        {
+          "languageCode": "sn",
+          "languageName": "Shona"
+        },
+        {
+          "languageCode": "sd",
+          "languageName": "Sindhi"
+        },
+        {
+          "languageCode": "si",
+          "languageName": "Sinhala"
+        },
+        {
+          "languageCode": "sk",
+          "languageName": "Slovak"
+        },
+        {
+          "languageCode": "sl",
+          "languageName": "Slovenian"
+        },
+        {
+          "languageCode": "so",
+          "languageName": "Somali"
+        },
+        {
+          "languageCode": "st",
+          "languageName": "Southern Sotho"
+        },
+        {
+          "languageCode": "es",
+          "languageName": "Spanish"
+        },
+        {
+          "languageCode": "su",
+          "languageName": "Sundanese"
+        },
+        {
+          "languageCode": "sw",
+          "languageName": "Swahili"
+        },
+        {
+          "languageCode": "sv",
+          "languageName": "Swedish"
+        },
+        {
+          "languageCode": "tg",
+          "languageName": "Tajik"
+        },
+        {
+          "languageCode": "ta",
+          "languageName": "Tamil"
+        },
+        {
+          "languageCode": "tt",
+          "languageName": "Tatar"
+        },
+        {
+          "languageCode": "te",
+          "languageName": "Telugu"
+        },
+        {
+          "languageCode": "th",
+          "languageName": "Thai"
+        },
+        {
+          "languageCode": "ti",
+          "languageName": "Tigrinya"
+        },
+        {
+          "languageCode": "ts",
+          "languageName": "Tsonga"
+        },
+        {
+          "languageCode": "tr",
+          "languageName": "Turkish"
+        },
+        {
+          "languageCode": "tk",
+          "languageName": "Turkmen"
+        },
+        {
+          "languageCode": "uk",
+          "languageName": "Ukrainian"
+        },
+        {
+          "languageCode": "und",
+          "languageName": "Unknown Language"
+        },
+        {
+          "languageCode": "ur",
+          "languageName": "Urdu"
+        },
+        {
+          "languageCode": "ug",
+          "languageName": "Uyghur"
+        },
+        {
+          "languageCode": "uz",
+          "languageName": "Uzbek"
+        },
+        {
+          "languageCode": "vi",
+          "languageName": "Vietnamese"
+        },
+        {
+          "languageCode": "cy",
+          "languageName": "Welsh"
+        },
+        {
+          "languageCode": "fy",
+          "languageName": "Western Frisian"
+        },
+        {
+          "languageCode": "xh",
+          "languageName": "Xhosa"
+        },
+        {
+          "languageCode": "yi",
+          "languageName": "Yiddish"
+        },
+        {
+          "languageCode": "yo",
+          "languageName": "Yoruba"
+        },
+        {
+          "languageCode": "zu",
+          "languageName": "Zulu"
+        }
+      ]
+    },
+    "storyboards": [
+      {
+        "width": "48",
+        "height": "27",
+        "thumbsCount": "100",
+        "columns": "10",
+        "rows": "10",
+        "interval": "0",
+        "storyboardCount": 1,
+        "url": [
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L0/default.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAF3gigs-aTqHnHTxulBJ-vJHTmuQ"
+        ]
+      },
+      {
+        "width": "80",
+        "height": "45",
+        "thumbsCount": "1039",
+        "columns": "10",
+        "rows": "10",
+        "interval": "10000",
+        "storyboardCount": 11,
+        "url": [
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M5.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M7.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M8.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L1/M10.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLDsB13WP2YrvTCNbBcb71Qvh_zQMg"
+        ]
+      },
+      {
+        "width": "160",
+        "height": "90",
+        "thumbsCount": "1039",
+        "columns": "5",
+        "rows": "5",
+        "interval": "10000",
+        "storyboardCount": 42,
+        "url": [
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M5.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M7.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M8.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M10.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M11.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M12.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M13.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M14.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M15.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M16.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M17.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M18.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M19.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M20.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M21.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M22.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M23.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M24.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M25.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M26.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M27.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M28.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M29.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M30.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M31.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M32.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M33.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M34.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M35.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M36.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M37.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M38.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M39.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M40.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L2/M41.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLBCvZ1fNKp0MYn5ZmBqXegKMBZ5UA"
+        ]
+      },
+      {
+        "width": "320",
+        "height": "180",
+        "thumbsCount": "1039",
+        "columns": "3",
+        "rows": "3",
+        "interval": "10000",
+        "storyboardCount": 116,
+        "url": [
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M5.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M7.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M8.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M10.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M11.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M12.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M13.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M14.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M15.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M16.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M17.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M18.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M19.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M20.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M21.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M22.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M23.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M24.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M25.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M26.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M27.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M28.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M29.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M30.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M31.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M32.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M33.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M34.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M35.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M36.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M37.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M38.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M39.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M40.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M41.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M42.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M43.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M44.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M45.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M46.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M47.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M48.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M49.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M50.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M51.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M52.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M53.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M54.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M55.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M56.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M57.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M58.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M59.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M60.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M61.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M62.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M63.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M64.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M65.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M66.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M67.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M68.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M69.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M70.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M71.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M72.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M73.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M74.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M75.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M76.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M77.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M78.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M79.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M80.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M81.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M82.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M83.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M84.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M85.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M86.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M87.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M88.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M89.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M90.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M91.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M92.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M93.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M94.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M95.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M96.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M97.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M98.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M99.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M100.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M101.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M102.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M103.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M104.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M105.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M106.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M107.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M108.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M109.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M110.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M111.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M112.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M113.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M114.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q",
+          "https://i.ytimg.com/sb/HkVdG2htHbw/storyboard3_L3/M115.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjTk4OuBg==&sigh=rs$AOn4CLAovtT3pPwEq_V9EX-VNJzb1P9m9Q"
+        ]
+      }
+    ],
+    "playableInEmbed": true
+  },
+  {
+    "id": "gCVyn7__qWw",
+    "title": "Astuces de bricolage à la maison qui vous épateront! 🌈 🛠️ 💫 Ouvrez un Monde de Possibilités",
+    "lengthSeconds": "3746",
+    "keywords": [
+      "activités manuelles",
+      "art",
+      "artisanat",
+      "astuces",
+      "brico sympa",
+      "bricolage",
+      "choses utiles",
+      "combine",
+      "fait-main",
+      "fait-maison",
+      "habileté",
+      "projets faciles",
+      "savoir-faire",
+      "tours",
+      "travaux manuels",
+      "trucs",
+      "tuto",
+      "tutorial"
+    ],
+    "channelTitle": "BRICO SYMPA",
+    "channelId": "UC9TJezP2M1ADmUYVl8hrQ2A",
+    "description": "🌟 Plongez dans un monde de bricolage génial avec notre dernière vidéo ! Découvrez des astuces époustouflantes qui transformeront votre vie à la maison. Des solutions de bricolage innovantes aux conseils révolutionnaires, cette vidéo est votre billet pour amener votre maison au niveau supérieur ✨ Ne manquez pas la magie - appuyez sur play maintenant et améliorez votre quotidien avec ces hacks incroyables! 🔥✌️ #RévolutionDIY #AstucesDeVie\n\nTIMESTAMP :\n5:08 - Nettoyer les zones difficiles d'accès\n15:57 - Astuce de tournevis facile\n41:53 - Comment utiliser votre sèche-cheveux comme un aspirateur\n__________________________________________________\n\nCette vidéo a été réalisée à des fins de divertissement. Nous ne donnons aucune garantie quant à l'exhaustivité, la sécurité ou la fiabilité des actions qui s'y déroulent. Toute action que vous entreprendrez sur la base des informations contenues dans cette vidéo se fera sous votre propre responsabilité, et nous ne serons aucunement tenus responsables des éventuels dommages ou pertes. Il incombe au spectateur de faire preuve de discernement, de prudence et de précaution s'il envisage de reproduire ce qu'il a vu dans cette vidéo.\n\nLa vidéo suivante peut présenter certaines activités réalisées par nos acteurs dans un environnement contrôlé. Veuillez faire preuve de discernement, de prudence et de précaution si vous envisagez de reproduire ces actions.\n\nTous les produits et noms de compagnies apparaissant dans cette vidéo demeurent les marques commerciales™ ou marques déposées® de leurs propriétaires respectifs. Leur utilisation ne suggère aucune affiliation ni approbation de leur part.\n__________________________________________________\n\n\nPour ne rien perdre de BRICO SYMPA, abonnez-vous !: https://www.youtube.com/channel/UC9TJezP2M1ADmUYVl8hrQ2A?sub_confirmation=1\n\nNous ne sommes pas seulement ici mais aussi sur:\n\nFacebook: https://www.facebook.com/sympasympacom/\n\n__________________________________________________\n\n\nMusic by Epidemic Sound: https://www.epidemicsound.com/\n\nStock materials (photos, footages and other): https://www.depositphotos.com",
+    "thumbnail": [
+      {
+        "url": "https://i.ytimg.com/vi/gCVyn7__qWw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAavErk18ggsMeJt2S6Ug1OZEogGA",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gCVyn7__qWw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBx1alvWh9nF0-pCKisPo9TgVSZ4g",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gCVyn7__qWw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh8IRqK5TuciKlhvkaMpolzX2Leg",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gCVyn7__qWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqcY58WB1s0LWiaAzd-_zRthzU_w",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gCVyn7__qWw/maxresdefault.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gCVyn7__qWw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "allowRatings": true,
+    "viewCount": "33363",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false,
+    "isCrawlable": true,
+    "isFamilySafe": true,
+    "availableCountries": [
+      "AD",
+      "AE",
+      "AF",
+      "AG",
+      "AI",
+      "AL",
+      "AM",
+      "AO",
+      "AQ",
+      "AR",
+      "AS",
+      "AT",
+      "AU",
+      "AW",
+      "AX",
+      "AZ",
+      "BA",
+      "BB",
+      "BD",
+      "BE",
+      "BF",
+      "BG",
+      "BH",
+      "BI",
+      "BJ",
+      "BL",
+      "BM",
+      "BN",
+      "BO",
+      "BQ",
+      "BR",
+      "BS",
+      "BT",
+      "BV",
+      "BW",
+      "BY",
+      "BZ",
+      "CA",
+      "CC",
+      "CD",
+      "CF",
+      "CG",
+      "CH",
+      "CI",
+      "CK",
+      "CL",
+      "CM",
+      "CN",
+      "CO",
+      "CR",
+      "CU",
+      "CV",
+      "CW",
+      "CX",
+      "CY",
+      "CZ",
+      "DE",
+      "DJ",
+      "DK",
+      "DM",
+      "DO",
+      "DZ",
+      "EC",
+      "EE",
+      "EG",
+      "EH",
+      "ER",
+      "ES",
+      "ET",
+      "FI",
+      "FJ",
+      "FK",
+      "FM",
+      "FO",
+      "FR",
+      "GA",
+      "GB",
+      "GD",
+      "GE",
+      "GF",
+      "GG",
+      "GH",
+      "GI",
+      "GL",
+      "GM",
+      "GN",
+      "GP",
+      "GQ",
+      "GR",
+      "GS",
+      "GT",
+      "GU",
+      "GW",
+      "GY",
+      "HK",
+      "HM",
+      "HN",
+      "HR",
+      "HT",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IM",
+      "IN",
+      "IO",
+      "IQ",
+      "IR",
+      "IS",
+      "IT",
+      "JE",
+      "JM",
+      "JO",
+      "JP",
+      "KE",
+      "KG",
+      "KH",
+      "KI",
+      "KM",
+      "KN",
+      "KP",
+      "KR",
+      "KW",
+      "KY",
+      "KZ",
+      "LA",
+      "LB",
+      "LC",
+      "LI",
+      "LK",
+      "LR",
+      "LS",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MD",
+      "ME",
+      "MF",
+      "MG",
+      "MH",
+      "MK",
+      "ML",
+      "MM",
+      "MN",
+      "MO",
+      "MP",
+      "MQ",
+      "MR",
+      "MS",
+      "MT",
+      "MU",
+      "MV",
+      "MW",
+      "MX",
+      "MY",
+      "MZ",
+      "NA",
+      "NC",
+      "NE",
+      "NF",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NP",
+      "NR",
+      "NU",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PF",
+      "PG",
+      "PH",
+      "PK",
+      "PL",
+      "PM",
+      "PN",
+      "PR",
+      "PS",
+      "PT",
+      "PW",
+      "PY",
+      "QA",
+      "RE",
+      "RO",
+      "RS",
+      "RU",
+      "RW",
+      "SA",
+      "SB",
+      "SC",
+      "SD",
+      "SE",
+      "SG",
+      "SH",
+      "SI",
+      "SJ",
+      "SK",
+      "SL",
+      "SM",
+      "SN",
+      "SO",
+      "SR",
+      "SS",
+      "ST",
+      "SV",
+      "SX",
+      "SY",
+      "SZ",
+      "TC",
+      "TD",
+      "TF",
+      "TG",
+      "TH",
+      "TJ",
+      "TK",
+      "TL",
+      "TM",
+      "TN",
+      "TO",
+      "TR",
+      "TT",
+      "TV",
+      "TW",
+      "TZ",
+      "UA",
+      "UG",
+      "UM",
+      "US",
+      "UY",
+      "UZ",
+      "VA",
+      "VC",
+      "VE",
+      "VG",
+      "VI",
+      "VN",
+      "VU",
+      "WF",
+      "WS",
+      "YE",
+      "YT",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "isUnlisted": false,
+    "category": "Howto & Style",
+    "publishDate": "2024-01-16T04:00:35-08:00",
+    "publishedAt": "2024-01-16T04:00:35-08:00",
+    "uploadDate": "2024-01-16T04:00:35-08:00",
+    "isShortsEligible": false,
+    "subtitles": {
+      "subtitles": [
+        {
+          "languageName": "English (auto-generated)",
+          "languageCode": "en",
+          "isTranslatable": true,
+          "url": "https://www.youtube.com/api/timedtext?v=gCVyn7__qWw&ei=l5IGaP6vF7vPp-oPl527iAQ&caps=asr&opi=112496729&xoaf=5&xosf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1745286407&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=C7B6C9508B8CD0244F070DBA4B85576F47F53A20.CCDC6594DDF2D58EA549881018752C189D04ECD0&key=yt8&kind=asr&lang=en&fmt=srv1"
+        }
+      ],
+      "format": "srv1",
+      "translationLanguages": [
+        {
+          "languageCode": "af",
+          "languageName": "Afrikaans"
+        },
+        {
+          "languageCode": "ak",
+          "languageName": "Akan"
+        },
+        {
+          "languageCode": "sq",
+          "languageName": "Albanian"
+        },
+        {
+          "languageCode": "am",
+          "languageName": "Amharic"
+        },
+        {
+          "languageCode": "ar",
+          "languageName": "Arabic"
+        },
+        {
+          "languageCode": "hy",
+          "languageName": "Armenian"
+        },
+        {
+          "languageCode": "as",
+          "languageName": "Assamese"
+        },
+        {
+          "languageCode": "ay",
+          "languageName": "Aymara"
+        },
+        {
+          "languageCode": "az",
+          "languageName": "Azerbaijani"
+        },
+        {
+          "languageCode": "bn",
+          "languageName": "Bangla"
+        },
+        {
+          "languageCode": "eu",
+          "languageName": "Basque"
+        },
+        {
+          "languageCode": "be",
+          "languageName": "Belarusian"
+        },
+        {
+          "languageCode": "bho",
+          "languageName": "Bhojpuri"
+        },
+        {
+          "languageCode": "bs",
+          "languageName": "Bosnian"
+        },
+        {
+          "languageCode": "bg",
+          "languageName": "Bulgarian"
+        },
+        {
+          "languageCode": "my",
+          "languageName": "Burmese"
+        },
+        {
+          "languageCode": "ca",
+          "languageName": "Catalan"
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": "Cebuano"
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": "Chinese (Simplified)"
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": "Chinese (Traditional)"
+        },
+        {
+          "languageCode": "co",
+          "languageName": "Corsican"
+        },
+        {
+          "languageCode": "hr",
+          "languageName": "Croatian"
+        },
+        {
+          "languageCode": "cs",
+          "languageName": "Czech"
+        },
+        {
+          "languageCode": "da",
+          "languageName": "Danish"
+        },
+        {
+          "languageCode": "dv",
+          "languageName": "Divehi"
+        },
+        {
+          "languageCode": "nl",
+          "languageName": "Dutch"
+        },
+        {
+          "languageCode": "en",
+          "languageName": "English"
+        },
+        {
+          "languageCode": "eo",
+          "languageName": "Esperanto"
+        },
+        {
+          "languageCode": "et",
+          "languageName": "Estonian"
+        },
+        {
+          "languageCode": "ee",
+          "languageName": "Ewe"
+        },
+        {
+          "languageCode": "fil",
+          "languageName": "Filipino"
+        },
+        {
+          "languageCode": "fi",
+          "languageName": "Finnish"
+        },
+        {
+          "languageCode": "fr",
+          "languageName": "French"
+        },
+        {
+          "languageCode": "gl",
+          "languageName": "Galician"
+        },
+        {
+          "languageCode": "lg",
+          "languageName": "Ganda"
+        },
+        {
+          "languageCode": "ka",
+          "languageName": "Georgian"
+        },
+        {
+          "languageCode": "de",
+          "languageName": "German"
+        },
+        {
+          "languageCode": "el",
+          "languageName": "Greek"
+        },
+        {
+          "languageCode": "gn",
+          "languageName": "Guarani"
+        },
+        {
+          "languageCode": "gu",
+          "languageName": "Gujarati"
+        },
+        {
+          "languageCode": "ht",
+          "languageName": "Haitian Creole"
+        },
+        {
+          "languageCode": "ha",
+          "languageName": "Hausa"
+        },
+        {
+          "languageCode": "haw",
+          "languageName": "Hawaiian"
+        },
+        {
+          "languageCode": "iw",
+          "languageName": "Hebrew"
+        },
+        {
+          "languageCode": "hi",
+          "languageName": "Hindi"
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": "Hmong"
+        },
+        {
+          "languageCode": "hu",
+          "languageName": "Hungarian"
+        },
+        {
+          "languageCode": "is",
+          "languageName": "Icelandic"
+        },
+        {
+          "languageCode": "ig",
+          "languageName": "Igbo"
+        },
+        {
+          "languageCode": "id",
+          "languageName": "Indonesian"
+        },
+        {
+          "languageCode": "ga",
+          "languageName": "Irish"
+        },
+        {
+          "languageCode": "it",
+          "languageName": "Italian"
+        },
+        {
+          "languageCode": "ja",
+          "languageName": "Japanese"
+        },
+        {
+          "languageCode": "jv",
+          "languageName": "Javanese"
+        },
+        {
+          "languageCode": "kn",
+          "languageName": "Kannada"
+        },
+        {
+          "languageCode": "kk",
+          "languageName": "Kazakh"
+        },
+        {
+          "languageCode": "km",
+          "languageName": "Khmer"
+        },
+        {
+          "languageCode": "rw",
+          "languageName": "Kinyarwanda"
+        },
+        {
+          "languageCode": "ko",
+          "languageName": "Korean"
+        },
+        {
+          "languageCode": "kri",
+          "languageName": "Krio"
+        },
+        {
+          "languageCode": "ku",
+          "languageName": "Kurdish"
+        },
+        {
+          "languageCode": "ky",
+          "languageName": "Kyrgyz"
+        },
+        {
+          "languageCode": "lo",
+          "languageName": "Lao"
+        },
+        {
+          "languageCode": "la",
+          "languageName": "Latin"
+        },
+        {
+          "languageCode": "lv",
+          "languageName": "Latvian"
+        },
+        {
+          "languageCode": "ln",
+          "languageName": "Lingala"
+        },
+        {
+          "languageCode": "lt",
+          "languageName": "Lithuanian"
+        },
+        {
+          "languageCode": "lb",
+          "languageName": "Luxembourgish"
+        },
+        {
+          "languageCode": "mk",
+          "languageName": "Macedonian"
+        },
+        {
+          "languageCode": "mg",
+          "languageName": "Malagasy"
+        },
+        {
+          "languageCode": "ms",
+          "languageName": "Malay"
+        },
+        {
+          "languageCode": "ml",
+          "languageName": "Malayalam"
+        },
+        {
+          "languageCode": "mt",
+          "languageName": "Maltese"
+        },
+        {
+          "languageCode": "mi",
+          "languageName": "Maori"
+        },
+        {
+          "languageCode": "mr",
+          "languageName": "Marathi"
+        },
+        {
+          "languageCode": "mn",
+          "languageName": "Mongolian"
+        },
+        {
+          "languageCode": "ne",
+          "languageName": "Nepali"
+        },
+        {
+          "languageCode": "nso",
+          "languageName": "Northern Sotho"
+        },
+        {
+          "languageCode": "no",
+          "languageName": "Norwegian"
+        },
+        {
+          "languageCode": "ny",
+          "languageName": "Nyanja"
+        },
+        {
+          "languageCode": "or",
+          "languageName": "Odia"
+        },
+        {
+          "languageCode": "om",
+          "languageName": "Oromo"
+        },
+        {
+          "languageCode": "ps",
+          "languageName": "Pashto"
+        },
+        {
+          "languageCode": "fa",
+          "languageName": "Persian"
+        },
+        {
+          "languageCode": "pl",
+          "languageName": "Polish"
+        },
+        {
+          "languageCode": "pt",
+          "languageName": "Portuguese"
+        },
+        {
+          "languageCode": "pa",
+          "languageName": "Punjabi"
+        },
+        {
+          "languageCode": "qu",
+          "languageName": "Quechua"
+        },
+        {
+          "languageCode": "ro",
+          "languageName": "Romanian"
+        },
+        {
+          "languageCode": "ru",
+          "languageName": "Russian"
+        },
+        {
+          "languageCode": "sm",
+          "languageName": "Samoan"
+        },
+        {
+          "languageCode": "sa",
+          "languageName": "Sanskrit"
+        },
+        {
+          "languageCode": "gd",
+          "languageName": "Scottish Gaelic"
+        },
+        {
+          "languageCode": "sr",
+          "languageName": "Serbian"
+        },
+        {
+          "languageCode": "sn",
+          "languageName": "Shona"
+        },
+        {
+          "languageCode": "sd",
+          "languageName": "Sindhi"
+        },
+        {
+          "languageCode": "si",
+          "languageName": "Sinhala"
+        },
+        {
+          "languageCode": "sk",
+          "languageName": "Slovak"
+        },
+        {
+          "languageCode": "sl",
+          "languageName": "Slovenian"
+        },
+        {
+          "languageCode": "so",
+          "languageName": "Somali"
+        },
+        {
+          "languageCode": "st",
+          "languageName": "Southern Sotho"
+        },
+        {
+          "languageCode": "es",
+          "languageName": "Spanish"
+        },
+        {
+          "languageCode": "su",
+          "languageName": "Sundanese"
+        },
+        {
+          "languageCode": "sw",
+          "languageName": "Swahili"
+        },
+        {
+          "languageCode": "sv",
+          "languageName": "Swedish"
+        },
+        {
+          "languageCode": "tg",
+          "languageName": "Tajik"
+        },
+        {
+          "languageCode": "ta",
+          "languageName": "Tamil"
+        },
+        {
+          "languageCode": "tt",
+          "languageName": "Tatar"
+        },
+        {
+          "languageCode": "te",
+          "languageName": "Telugu"
+        },
+        {
+          "languageCode": "th",
+          "languageName": "Thai"
+        },
+        {
+          "languageCode": "ti",
+          "languageName": "Tigrinya"
+        },
+        {
+          "languageCode": "ts",
+          "languageName": "Tsonga"
+        },
+        {
+          "languageCode": "tr",
+          "languageName": "Turkish"
+        },
+        {
+          "languageCode": "tk",
+          "languageName": "Turkmen"
+        },
+        {
+          "languageCode": "uk",
+          "languageName": "Ukrainian"
+        },
+        {
+          "languageCode": "und",
+          "languageName": "Unknown Language"
+        },
+        {
+          "languageCode": "ur",
+          "languageName": "Urdu"
+        },
+        {
+          "languageCode": "ug",
+          "languageName": "Uyghur"
+        },
+        {
+          "languageCode": "uz",
+          "languageName": "Uzbek"
+        },
+        {
+          "languageCode": "vi",
+          "languageName": "Vietnamese"
+        },
+        {
+          "languageCode": "cy",
+          "languageName": "Welsh"
+        },
+        {
+          "languageCode": "fy",
+          "languageName": "Western Frisian"
+        },
+        {
+          "languageCode": "xh",
+          "languageName": "Xhosa"
+        },
+        {
+          "languageCode": "yi",
+          "languageName": "Yiddish"
+        },
+        {
+          "languageCode": "yo",
+          "languageName": "Yoruba"
+        },
+        {
+          "languageCode": "zu",
+          "languageName": "Zulu"
+        }
+      ]
+    },
+    "storyboards": [
+      {
+        "width": "48",
+        "height": "27",
+        "thumbsCount": "100",
+        "columns": "10",
+        "rows": "10",
+        "interval": "0",
+        "storyboardCount": 1,
+        "url": [
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L0/default.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLCSc14NQsJWKRlfjMtNVaEnv1kQaw"
+        ]
+      },
+      {
+        "width": "79",
+        "height": "45",
+        "thumbsCount": "376",
+        "columns": "10",
+        "rows": "10",
+        "interval": "10000",
+        "storyboardCount": 4,
+        "url": [
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L1/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLC6DcKsy0ZLrbI1yhHmamjG1Qox-g",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L1/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLC6DcKsy0ZLrbI1yhHmamjG1Qox-g",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L1/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLC6DcKsy0ZLrbI1yhHmamjG1Qox-g",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L1/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLC6DcKsy0ZLrbI1yhHmamjG1Qox-g"
+        ]
+      },
+      {
+        "width": "159",
+        "height": "90",
+        "thumbsCount": "376",
+        "columns": "5",
+        "rows": "5",
+        "interval": "10000",
+        "storyboardCount": 16,
+        "url": [
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M5.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M7.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M8.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M10.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M11.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M12.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M13.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M14.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA",
+          "https://i.ytimg.com/sb/gCVyn7__qWw/storyboard3_L2/M15.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi45IGvBg==&sigh=rs$AOn4CLA-oNPmW8j2P-ysFD4-FnYkDQ4BPA"
+        ]
+      }
+    ],
+    "playableInEmbed": true
+  },
+  {
+    "id": "6_8AlHTPKHc",
+    "title": "Des astuces de menuiserie polyvalentes pour toutes les occasions 🛠️",
+    "lengthSeconds": "903",
+    "keywords": [
+      "5mc",
+      "camping",
+      "comment fabriquer",
+      "comment réparer",
+      "cuisiner en extérieur",
+      "extérieur",
+      "recyclage",
+      "restauration",
+      "rénovation",
+      "réparation",
+      "réparations mineures",
+      "réparer",
+      "travail du bois",
+      "wood mood",
+      "wood mood french"
+    ],
+    "channelTitle": "Les Cracks du Bois",
+    "channelId": "UCzqs64uQ9dv3pFTWwo2hBZg",
+    "description": "Qu'il s'agisse d'astuces pratiques ou de techniques essentielles, ces connaissances vous permettront d'améliorer vos compétences en matière de travail du bois et de vous adapter à toutes les occasions, pour que vos projets deviennent un jeu d'enfant.\nCette vidéo est réalisée dans un but de divertissement. Nous ne faisons aucune garantie quant à sa faisabilité, sa fiabilité ou les risques qui l’entourent. Toute action basée sur les informations recueillies dans cette vidéo n'engage que vous et nous déclinons toute responsabilité en cas de dommages ou de pertes. Il relève de la responsabilité du spectateur de faire preuve de jugement, d'attention et de toutes les précautions nécessaires en vue de reproduire ces actions.\r\n\r\nLa vidéo suivante peut mettre en scène des activités pratiquées par nos acteurs dans un environnement contrôlé. S'il vous plait, faites preuve de jugement, d'attention et de toutes les précautions nécessaires si vous prévoyez de les reproduire.\r\n\r\nMusique par Epidemic Sound :https://www.epidemicsound.com",
+    "thumbnail": [
+      {
+        "url": "https://i.ytimg.com/vi/6_8AlHTPKHc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBL6eTCY5d7PnC0stU-L1sbTEiZoQ",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6_8AlHTPKHc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCu_Xrk45g4m4Y_jXzlealP05RmmQ",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6_8AlHTPKHc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkp8PZr5-lS97Fe0YET4Slu5Kr1Q",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6_8AlHTPKHc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASChQW5KRdOZ_yHNbGMYfAihy2sg",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6_8AlHTPKHc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    ],
+    "allowRatings": true,
+    "viewCount": "549163",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false,
+    "isCrawlable": true,
+    "isFamilySafe": true,
+    "availableCountries": [
+      "AD",
+      "AE",
+      "AF",
+      "AG",
+      "AI",
+      "AL",
+      "AM",
+      "AO",
+      "AQ",
+      "AR",
+      "AS",
+      "AT",
+      "AU",
+      "AW",
+      "AX",
+      "AZ",
+      "BA",
+      "BB",
+      "BD",
+      "BE",
+      "BF",
+      "BG",
+      "BH",
+      "BI",
+      "BJ",
+      "BL",
+      "BM",
+      "BN",
+      "BO",
+      "BQ",
+      "BR",
+      "BS",
+      "BT",
+      "BV",
+      "BW",
+      "BY",
+      "BZ",
+      "CA",
+      "CC",
+      "CD",
+      "CF",
+      "CG",
+      "CH",
+      "CI",
+      "CK",
+      "CL",
+      "CM",
+      "CN",
+      "CO",
+      "CR",
+      "CU",
+      "CV",
+      "CW",
+      "CX",
+      "CY",
+      "CZ",
+      "DE",
+      "DJ",
+      "DK",
+      "DM",
+      "DO",
+      "DZ",
+      "EC",
+      "EE",
+      "EG",
+      "EH",
+      "ER",
+      "ES",
+      "ET",
+      "FI",
+      "FJ",
+      "FK",
+      "FM",
+      "FO",
+      "FR",
+      "GA",
+      "GB",
+      "GD",
+      "GE",
+      "GF",
+      "GG",
+      "GH",
+      "GI",
+      "GL",
+      "GM",
+      "GN",
+      "GP",
+      "GQ",
+      "GR",
+      "GS",
+      "GT",
+      "GU",
+      "GW",
+      "GY",
+      "HK",
+      "HM",
+      "HN",
+      "HR",
+      "HT",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IM",
+      "IN",
+      "IO",
+      "IQ",
+      "IR",
+      "IS",
+      "IT",
+      "JE",
+      "JM",
+      "JO",
+      "JP",
+      "KE",
+      "KG",
+      "KH",
+      "KI",
+      "KM",
+      "KN",
+      "KP",
+      "KR",
+      "KW",
+      "KY",
+      "KZ",
+      "LA",
+      "LB",
+      "LC",
+      "LI",
+      "LK",
+      "LR",
+      "LS",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MD",
+      "ME",
+      "MF",
+      "MG",
+      "MH",
+      "MK",
+      "ML",
+      "MM",
+      "MN",
+      "MO",
+      "MP",
+      "MQ",
+      "MR",
+      "MS",
+      "MT",
+      "MU",
+      "MV",
+      "MW",
+      "MX",
+      "MY",
+      "MZ",
+      "NA",
+      "NC",
+      "NE",
+      "NF",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NP",
+      "NR",
+      "NU",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PF",
+      "PG",
+      "PH",
+      "PK",
+      "PL",
+      "PM",
+      "PN",
+      "PR",
+      "PS",
+      "PT",
+      "PW",
+      "PY",
+      "QA",
+      "RE",
+      "RO",
+      "RS",
+      "RU",
+      "RW",
+      "SA",
+      "SB",
+      "SC",
+      "SD",
+      "SE",
+      "SG",
+      "SH",
+      "SI",
+      "SJ",
+      "SK",
+      "SL",
+      "SM",
+      "SN",
+      "SO",
+      "SR",
+      "SS",
+      "ST",
+      "SV",
+      "SX",
+      "SY",
+      "SZ",
+      "TC",
+      "TD",
+      "TF",
+      "TG",
+      "TH",
+      "TJ",
+      "TK",
+      "TL",
+      "TM",
+      "TN",
+      "TO",
+      "TR",
+      "TT",
+      "TV",
+      "TW",
+      "TZ",
+      "UA",
+      "UG",
+      "UM",
+      "US",
+      "UY",
+      "UZ",
+      "VA",
+      "VC",
+      "VE",
+      "VG",
+      "VI",
+      "VN",
+      "VU",
+      "WF",
+      "WS",
+      "YE",
+      "YT",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "isUnlisted": false,
+    "category": "Howto & Style",
+    "publishDate": "2023-10-21T04:00:05-07:00",
+    "publishedAt": "2023-10-21T04:00:05-07:00",
+    "uploadDate": "2023-10-21T04:00:05-07:00",
+    "isShortsEligible": false,
+    "subtitles": {
+      "subtitles": [
+        {
+          "languageName": "English (auto-generated)",
+          "languageCode": "en",
+          "isTranslatable": true,
+          "url": "https://www.youtube.com/api/timedtext?v=6_8AlHTPKHc&ei=l5IGaPv2O5POi9oP_rPZkQM&caps=asr&opi=112496729&xoaf=5&xosf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1745286408&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=D624F52182DF830D1BF3DE95BCDD311ED6F9E3DB.24F239E81997F6F37BDD560239524B0073A3DC86&key=yt8&kind=asr&lang=en&fmt=srv1"
+        }
+      ],
+      "format": "srv1",
+      "translationLanguages": [
+        {
+          "languageCode": "af",
+          "languageName": "Afrikaans"
+        },
+        {
+          "languageCode": "ak",
+          "languageName": "Akan"
+        },
+        {
+          "languageCode": "sq",
+          "languageName": "Albanian"
+        },
+        {
+          "languageCode": "am",
+          "languageName": "Amharic"
+        },
+        {
+          "languageCode": "ar",
+          "languageName": "Arabic"
+        },
+        {
+          "languageCode": "hy",
+          "languageName": "Armenian"
+        },
+        {
+          "languageCode": "as",
+          "languageName": "Assamese"
+        },
+        {
+          "languageCode": "ay",
+          "languageName": "Aymara"
+        },
+        {
+          "languageCode": "az",
+          "languageName": "Azerbaijani"
+        },
+        {
+          "languageCode": "bn",
+          "languageName": "Bangla"
+        },
+        {
+          "languageCode": "eu",
+          "languageName": "Basque"
+        },
+        {
+          "languageCode": "be",
+          "languageName": "Belarusian"
+        },
+        {
+          "languageCode": "bho",
+          "languageName": "Bhojpuri"
+        },
+        {
+          "languageCode": "bs",
+          "languageName": "Bosnian"
+        },
+        {
+          "languageCode": "bg",
+          "languageName": "Bulgarian"
+        },
+        {
+          "languageCode": "my",
+          "languageName": "Burmese"
+        },
+        {
+          "languageCode": "ca",
+          "languageName": "Catalan"
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": "Cebuano"
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": "Chinese (Simplified)"
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": "Chinese (Traditional)"
+        },
+        {
+          "languageCode": "co",
+          "languageName": "Corsican"
+        },
+        {
+          "languageCode": "hr",
+          "languageName": "Croatian"
+        },
+        {
+          "languageCode": "cs",
+          "languageName": "Czech"
+        },
+        {
+          "languageCode": "da",
+          "languageName": "Danish"
+        },
+        {
+          "languageCode": "dv",
+          "languageName": "Divehi"
+        },
+        {
+          "languageCode": "nl",
+          "languageName": "Dutch"
+        },
+        {
+          "languageCode": "en",
+          "languageName": "English"
+        },
+        {
+          "languageCode": "eo",
+          "languageName": "Esperanto"
+        },
+        {
+          "languageCode": "et",
+          "languageName": "Estonian"
+        },
+        {
+          "languageCode": "ee",
+          "languageName": "Ewe"
+        },
+        {
+          "languageCode": "fil",
+          "languageName": "Filipino"
+        },
+        {
+          "languageCode": "fi",
+          "languageName": "Finnish"
+        },
+        {
+          "languageCode": "fr",
+          "languageName": "French"
+        },
+        {
+          "languageCode": "gl",
+          "languageName": "Galician"
+        },
+        {
+          "languageCode": "lg",
+          "languageName": "Ganda"
+        },
+        {
+          "languageCode": "ka",
+          "languageName": "Georgian"
+        },
+        {
+          "languageCode": "de",
+          "languageName": "German"
+        },
+        {
+          "languageCode": "el",
+          "languageName": "Greek"
+        },
+        {
+          "languageCode": "gn",
+          "languageName": "Guarani"
+        },
+        {
+          "languageCode": "gu",
+          "languageName": "Gujarati"
+        },
+        {
+          "languageCode": "ht",
+          "languageName": "Haitian Creole"
+        },
+        {
+          "languageCode": "ha",
+          "languageName": "Hausa"
+        },
+        {
+          "languageCode": "haw",
+          "languageName": "Hawaiian"
+        },
+        {
+          "languageCode": "iw",
+          "languageName": "Hebrew"
+        },
+        {
+          "languageCode": "hi",
+          "languageName": "Hindi"
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": "Hmong"
+        },
+        {
+          "languageCode": "hu",
+          "languageName": "Hungarian"
+        },
+        {
+          "languageCode": "is",
+          "languageName": "Icelandic"
+        },
+        {
+          "languageCode": "ig",
+          "languageName": "Igbo"
+        },
+        {
+          "languageCode": "id",
+          "languageName": "Indonesian"
+        },
+        {
+          "languageCode": "ga",
+          "languageName": "Irish"
+        },
+        {
+          "languageCode": "it",
+          "languageName": "Italian"
+        },
+        {
+          "languageCode": "ja",
+          "languageName": "Japanese"
+        },
+        {
+          "languageCode": "jv",
+          "languageName": "Javanese"
+        },
+        {
+          "languageCode": "kn",
+          "languageName": "Kannada"
+        },
+        {
+          "languageCode": "kk",
+          "languageName": "Kazakh"
+        },
+        {
+          "languageCode": "km",
+          "languageName": "Khmer"
+        },
+        {
+          "languageCode": "rw",
+          "languageName": "Kinyarwanda"
+        },
+        {
+          "languageCode": "ko",
+          "languageName": "Korean"
+        },
+        {
+          "languageCode": "kri",
+          "languageName": "Krio"
+        },
+        {
+          "languageCode": "ku",
+          "languageName": "Kurdish"
+        },
+        {
+          "languageCode": "ky",
+          "languageName": "Kyrgyz"
+        },
+        {
+          "languageCode": "lo",
+          "languageName": "Lao"
+        },
+        {
+          "languageCode": "la",
+          "languageName": "Latin"
+        },
+        {
+          "languageCode": "lv",
+          "languageName": "Latvian"
+        },
+        {
+          "languageCode": "ln",
+          "languageName": "Lingala"
+        },
+        {
+          "languageCode": "lt",
+          "languageName": "Lithuanian"
+        },
+        {
+          "languageCode": "lb",
+          "languageName": "Luxembourgish"
+        },
+        {
+          "languageCode": "mk",
+          "languageName": "Macedonian"
+        },
+        {
+          "languageCode": "mg",
+          "languageName": "Malagasy"
+        },
+        {
+          "languageCode": "ms",
+          "languageName": "Malay"
+        },
+        {
+          "languageCode": "ml",
+          "languageName": "Malayalam"
+        },
+        {
+          "languageCode": "mt",
+          "languageName": "Maltese"
+        },
+        {
+          "languageCode": "mi",
+          "languageName": "Maori"
+        },
+        {
+          "languageCode": "mr",
+          "languageName": "Marathi"
+        },
+        {
+          "languageCode": "mn",
+          "languageName": "Mongolian"
+        },
+        {
+          "languageCode": "ne",
+          "languageName": "Nepali"
+        },
+        {
+          "languageCode": "nso",
+          "languageName": "Northern Sotho"
+        },
+        {
+          "languageCode": "no",
+          "languageName": "Norwegian"
+        },
+        {
+          "languageCode": "ny",
+          "languageName": "Nyanja"
+        },
+        {
+          "languageCode": "or",
+          "languageName": "Odia"
+        },
+        {
+          "languageCode": "om",
+          "languageName": "Oromo"
+        },
+        {
+          "languageCode": "ps",
+          "languageName": "Pashto"
+        },
+        {
+          "languageCode": "fa",
+          "languageName": "Persian"
+        },
+        {
+          "languageCode": "pl",
+          "languageName": "Polish"
+        },
+        {
+          "languageCode": "pt",
+          "languageName": "Portuguese"
+        },
+        {
+          "languageCode": "pa",
+          "languageName": "Punjabi"
+        },
+        {
+          "languageCode": "qu",
+          "languageName": "Quechua"
+        },
+        {
+          "languageCode": "ro",
+          "languageName": "Romanian"
+        },
+        {
+          "languageCode": "ru",
+          "languageName": "Russian"
+        },
+        {
+          "languageCode": "sm",
+          "languageName": "Samoan"
+        },
+        {
+          "languageCode": "sa",
+          "languageName": "Sanskrit"
+        },
+        {
+          "languageCode": "gd",
+          "languageName": "Scottish Gaelic"
+        },
+        {
+          "languageCode": "sr",
+          "languageName": "Serbian"
+        },
+        {
+          "languageCode": "sn",
+          "languageName": "Shona"
+        },
+        {
+          "languageCode": "sd",
+          "languageName": "Sindhi"
+        },
+        {
+          "languageCode": "si",
+          "languageName": "Sinhala"
+        },
+        {
+          "languageCode": "sk",
+          "languageName": "Slovak"
+        },
+        {
+          "languageCode": "sl",
+          "languageName": "Slovenian"
+        },
+        {
+          "languageCode": "so",
+          "languageName": "Somali"
+        },
+        {
+          "languageCode": "st",
+          "languageName": "Southern Sotho"
+        },
+        {
+          "languageCode": "es",
+          "languageName": "Spanish"
+        },
+        {
+          "languageCode": "su",
+          "languageName": "Sundanese"
+        },
+        {
+          "languageCode": "sw",
+          "languageName": "Swahili"
+        },
+        {
+          "languageCode": "sv",
+          "languageName": "Swedish"
+        },
+        {
+          "languageCode": "tg",
+          "languageName": "Tajik"
+        },
+        {
+          "languageCode": "ta",
+          "languageName": "Tamil"
+        },
+        {
+          "languageCode": "tt",
+          "languageName": "Tatar"
+        },
+        {
+          "languageCode": "te",
+          "languageName": "Telugu"
+        },
+        {
+          "languageCode": "th",
+          "languageName": "Thai"
+        },
+        {
+          "languageCode": "ti",
+          "languageName": "Tigrinya"
+        },
+        {
+          "languageCode": "ts",
+          "languageName": "Tsonga"
+        },
+        {
+          "languageCode": "tr",
+          "languageName": "Turkish"
+        },
+        {
+          "languageCode": "tk",
+          "languageName": "Turkmen"
+        },
+        {
+          "languageCode": "uk",
+          "languageName": "Ukrainian"
+        },
+        {
+          "languageCode": "und",
+          "languageName": "Unknown Language"
+        },
+        {
+          "languageCode": "ur",
+          "languageName": "Urdu"
+        },
+        {
+          "languageCode": "ug",
+          "languageName": "Uyghur"
+        },
+        {
+          "languageCode": "uz",
+          "languageName": "Uzbek"
+        },
+        {
+          "languageCode": "vi",
+          "languageName": "Vietnamese"
+        },
+        {
+          "languageCode": "cy",
+          "languageName": "Welsh"
+        },
+        {
+          "languageCode": "fy",
+          "languageName": "Western Frisian"
+        },
+        {
+          "languageCode": "xh",
+          "languageName": "Xhosa"
+        },
+        {
+          "languageCode": "yi",
+          "languageName": "Yiddish"
+        },
+        {
+          "languageCode": "yo",
+          "languageName": "Yoruba"
+        },
+        {
+          "languageCode": "zu",
+          "languageName": "Zulu"
+        }
+      ]
+    },
+    "storyboards": [
+      {
+        "width": "48",
+        "height": "27",
+        "thumbsCount": "100",
+        "columns": "10",
+        "rows": "10",
+        "interval": "0",
+        "storyboardCount": 1,
+        "url": [
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L0/default.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLBU6Ca4ZoIpE0ymLB_J6UCulcFQNQ"
+        ]
+      },
+      {
+        "width": "45",
+        "height": "45",
+        "thumbsCount": "92",
+        "columns": "10",
+        "rows": "10",
+        "interval": "10000",
+        "storyboardCount": 1,
+        "url": [
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L1/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLCFu8xSgjOS6-5295vVljrwUvR3Mw"
+        ]
+      },
+      {
+        "width": "90",
+        "height": "90",
+        "thumbsCount": "92",
+        "columns": "5",
+        "rows": "5",
+        "interval": "10000",
+        "storyboardCount": 4,
+        "url": [
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L2/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLC4aVY16og7JWcP_nWDDm1pkI4vOw",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L2/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLC4aVY16og7JWcP_nWDDm1pkI4vOw",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L2/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLC4aVY16og7JWcP_nWDDm1pkI4vOw",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L2/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLC4aVY16og7JWcP_nWDDm1pkI4vOw"
+        ]
+      },
+      {
+        "width": "180",
+        "height": "180",
+        "thumbsCount": "92",
+        "columns": "3",
+        "rows": "3",
+        "interval": "10000",
+        "storyboardCount": 11,
+        "url": [
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M5.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M7.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M8.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ",
+          "https://i.ytimg.com/sb/6_8AlHTPKHc/storyboard3_L3/M10.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjZxPyoBg==&sigh=rs$AOn4CLAc4wO09CKyCXbP3FwH0Ph9_Z0PHQ"
+        ]
+      }
+    ],
+    "playableInEmbed": true
+  }
+]
